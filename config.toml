@@ -1,0 +1,77 @@
+baseurl = "http://www.manuelriccadonna.it" # Hostname (and path) to the root.
+title = "Tutt0l4nd|T3ch&M0r3" # Site title.
+theme = "hugo-coder-portfolio" # Set the theme.
+languagecode = "en" # The site’s language code used to generate RSS.
+defaultcontentlanguage = "en" # The default content language.
+
+paginate = 20 # Default number of pages per page in pagination.
+
+pygmentsstyle = "b2" # Color-theme or style for syntax highlighting.
+pygmentscodefences = true # Enable code fence background highlighting.
+pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences without specified language.
+pygmentsUseClasses = true # new add
+
+disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
+
+[params] # theme parameters
+    author = "Tutt0l4nd|T3ch&M0r3" # Author's name.
+    info = "Photo|Video|Podcast|More" # Author's job title or info.
+    description = "Manuel Riccadonna's personal website" # Site description.
+    keywords = "blog,developer,personal" # Site keywords.
+    avatarurl = "img/avatar.png" # Contain the path of the optionnal avatar in the static folder.
+
+    footercontent = "2019#ManuelRiccadonna" # Add footer content
+    #fixedbarContent = "Do you want to know me more private?→" # Add fixedbar content
+    #fixedbarContentAfter = "Thank You! Please share it if you like it→" # Add fixedbar content after click
+
+    # Whether you want to hide copyright and credits in the footer.
+    hideCredits = false
+    hideCopyright = false
+
+    # Custom CSS
+    custom_css = []
+
+    # Alignment of Mobile Menu items
+    itemscentered = true
+
+    # RTL support
+    rtl = false
+
+    snsShare = true # new add
+
+    thumbnail = "images/tn.png" # default sns thumbnail
+
+    # Multilanguage mode
+    langseparator = "|" # Separates menus from language selectors when site is multilingual.
+
+# Social links
+[[params.social]]
+    name = "1nst4gr4m"
+    weight = 1
+    url = "https://www.instagram.com/tuttologo79"
+[[params.social]]
+    name = "Tw1tt3r"
+    weight = 2
+    url = "https://twitter.com/tuttologo79"
+[[params.social]]
+    name = "F4C3B00K"
+    weight = 3
+    url = "https://www.facebook.com/tuttologo"
+[[params.social]]
+    name = "L1nk3d1n"
+    weight = 4
+    url = "https://www.linkedin.com/in/manuel-riccadonna-20baa37/"
+
+# Menu links
+[[menu.main]]
+    name = "Blog"
+    weight = 1
+    url  = "posts"
+[[menu.main]]
+    name = "About"
+    weight = 2
+    url = "about"
+[[menu.main]]
+    name = "Privacy"
+    weight = 3
+    url = "privacy"

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Tutt0l4nd|T3ch&amp;M0r3</title>
+    <link>http://www.manuelriccadonna.it/tags/</link>
+    <description>Recent content in Tags on Tutt0l4nd|T3ch&amp;M0r3</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 01 Mar 2019 15:17:03 +0100</lastBuildDate>
+    
+	<atom:link href="http://www.manuelriccadonna.it/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Me</title>
+      <link>http://www.manuelriccadonna.it/tags/me/</link>
+      <pubDate>Fri, 01 Mar 2019 15:17:03 +0100</pubDate>
+      
+      <guid>http://www.manuelriccadonna.it/tags/me/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
