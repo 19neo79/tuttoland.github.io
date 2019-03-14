@@ -70,7 +70,7 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
 [[menu.main]]
     name = "Gallery"
     weight = 2
-    url = "gallery"
+    url = "Gallery"
 [[menu.main]]
     name = "About"
     weight = 3
