@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tutt0l4nd|T3ch&amp;M0r3</title>
-    <link>http://www.manuelriccadonna.it/</link>
+    <link>https://www.manuelriccadonna.it/</link>
     <description>Recent content on Tutt0l4nd|T3ch&amp;M0r3</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 14 Mar 2019 22:58:40 +0100</lastBuildDate>
     
-	<atom:link href="http://www.manuelriccadonna.it/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.manuelriccadonna.it/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Gallery</title>
-      <link>http://www.manuelriccadonna.it/gallery/</link>
+      <link>https://www.manuelriccadonna.it/gallery/</link>
       <pubDate>Thu, 14 Mar 2019 22:58:40 +0100</pubDate>
       
-      <guid>http://www.manuelriccadonna.it/gallery/</guid>
+      <guid>https://www.manuelriccadonna.it/gallery/</guid>
       <description>A sphere
       A tree
       A golie
@@ -29,11 +29,20 @@
     </item>
     
     <item>
+      <title>Primo Post</title>
+      <link>https://www.manuelriccadonna.it/posts/primo_post/</link>
+      <pubDate>Wed, 06 Mar 2019 19:52:15 +0100</pubDate>
+      
+      <guid>https://www.manuelriccadonna.it/posts/primo_post/</guid>
+      <description>Non so come si inizia un articolo per raccontare la propria vita digitale.. vorrei far si che la tastiera scrivesse tutto in automatico semplicemente dettando con la mia voce..Potrei anche farlo.. ma non mi va. Sto scrivendo parole a caso sulla mia tastiera con quel rumore meccanico, che tanto mi ricorda la tatiera di una vecchia Olivetti.. unica differenza, mi manca il tasto per cambiare il colore da nero a rosso.</description>
+    </item>
+    
+    <item>
       <title>Privacy</title>
-      <link>http://www.manuelriccadonna.it/privacy/</link>
+      <link>https://www.manuelriccadonna.it/privacy/</link>
       <pubDate>Fri, 01 Mar 2019 15:22:36 +0100</pubDate>
       
-      <guid>http://www.manuelriccadonna.it/privacy/</guid>
+      <guid>https://www.manuelriccadonna.it/privacy/</guid>
       <description>Cookie Policy di www.manuelriccadonna.it
 I Cookie sono costituiti da porzioni di codice installate all&amp;rsquo;interno del browser che assistono il Titolare nell’erogazione del Servizio in base alle finalità descritte. Alcune delle finalità di installazione dei Cookie potrebbero, inoltre, necessitare del consenso dell&amp;rsquo;Utente.
 Quando l’installazione di Cookies avviene sulla base del consenso, tale consenso può essere revocato liberamente in ogni momento seguendo le istruzioni contenute in questo documento.
@@ -42,22 +51,11 @@ Cookie tecnici e di statistica aggregata</description>
     
     <item>
       <title>About</title>
-      <link>http://www.manuelriccadonna.it/about/</link>
+      <link>https://www.manuelriccadonna.it/about/</link>
       <pubDate>Fri, 01 Mar 2019 15:21:37 +0100</pubDate>
       
-      <guid>http://www.manuelriccadonna.it/about/</guid>
+      <guid>https://www.manuelriccadonna.it/about/</guid>
       <description>Faccio fatica a descrivermi, a raccontare qualcosa di me. Sistemista per lavoro, fotografo e grafico per diletto. Nasco a Bolzano nel 1979, invidio mio padre per l’arte che ha nelle mani, e mia madre che gestisce la famiglia. Il primo approccio con la fotografia lo apprendo grazie a mia madre, che eredita da mio nonno l’arte per la fotografia analogica. Tendo a starci lontano per la mia poca dimestichezza con le arti manuali.</description>
-    </item>
-    
-    <item>
-      <title>Here We Go!</title>
-      <link>http://www.manuelriccadonna.it/posts/here_we_go/</link>
-      <pubDate>Fri, 01 Mar 2019 15:17:03 +0100</pubDate>
-      
-      <guid>http://www.manuelriccadonna.it/posts/here_we_go/</guid>
-      <description>Finalmente il primo post..  Test Youtube   Test Instagram
-  View this post on Instagram        About the clouds.. • • @prilaga #bright #skyporn #skystyles_gf #skylovers #cloudyday #cloudlife #skyline #cloud #sunset_madness #cloudlovers #instaclouds #cloudchaser #sundown #cloudysky #iskygram #clouds_of_our_world #skypainters #cloudstagram #cloud_skye #sky #beautiful #sunspotters #sunset_pics #morning #sunlight #instacloud #cloudscape #prilaga #sunsetporn #dayshots
-A post shared by Manuel Riccadonna (@tuttologo79) on Feb 28, 2019 at 10:46am PST</description>
     </item>
     
   </channel>
