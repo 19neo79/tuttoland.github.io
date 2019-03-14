@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.manuelriccadonna.it/gallery/</loc>
+    <lastmod>2019-03-14T22:58:40+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.manuelriccadonna.it/about/</loc>
     <lastmod>2019-03-01T15:21:37+01:00</lastmod>
   </url>
@@ -37,7 +42,7 @@
   
   <url>
     <loc>http://www.manuelriccadonna.it/</loc>
-    <lastmod>2019-03-01T15:21:37+01:00</lastmod>
+    <lastmod>2019-03-14T22:58:40+01:00</lastmod>
     <priority>0</priority>
   </url>
   

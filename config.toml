@@ -68,10 +68,14 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
     weight = 1
     url  = "posts"
 [[menu.main]]
-    name = "About"
+    name = "Gallery"
     weight = 2
+    url = "gallery"
+[[menu.main]]
+    name = "About"
+    weight = 3
     url = "about"
 [[menu.main]]
     name = "Privacy"
-    weight = 3
+    weight = 4
     url = "privacy"

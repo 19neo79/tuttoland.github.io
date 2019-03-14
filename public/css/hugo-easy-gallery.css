@@ -9,15 +9,15 @@ Grid Layout Styles
 */
 .gallery {
     overflow: hidden;
-    margin: 10px;
-    max-width: 768px;
+    margin: 15px;
+    max-width: 1980px;
 }
 .gallery .box {
     float: left;
     position: relative;
     /* Default: 1 tile wide */
     width: 100%;
-    padding-bottom: 100%; 
+    padding-bottom: 100%;
 }
 @media only screen and (min-width : 365px) {
     /* Tablet view: 2 tiles */
@@ -45,7 +45,7 @@ Grid Layout Styles
 Transition styles
 */
 .gallery.hover-transition figure,
-.gallery.hover-effect-zoom .img, 
+.gallery.hover-effect-zoom .img,
 .gallery:not(.caption-effect-appear) figcaption,
 .fancy-figure:not(.caption-effect-appear) figcaption {
     -webkit-transition: all 0.3s ease-in-out;
@@ -156,4 +156,3 @@ figcaption styles
 figcaption p {
     margin: auto; /* override style in theme */
 }
-
