@@ -19,3 +19,5 @@ Provo a mettermi a scrivere una seconda puntata di questo simil blog. Non credo 
 Il mondo oramai è pieno di tech.. usatela se vi serve..
 
 Buona giornata!
+
+MR
