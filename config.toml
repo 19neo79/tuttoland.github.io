@@ -15,7 +15,7 @@ pygmentsUseClasses = true # new add
 
 [params] # theme parameters
     author = "Tutt0l4nd|T3ch&M0r3" # Author's name.
-    info = "Photo|Video|Podcast|More" # Author's job title or info.
+    info = "Photo|Video|More" # Author's job title or info.
     description = "Manuel Riccadonna's personal website" # Site description.
     keywords = "blog,developer,personal" # Site keywords.
     avatarurl = "img/avatar.png" # Contain the path of the optionnal avatar in the static folder.
