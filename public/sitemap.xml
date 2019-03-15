@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.manuelriccadonna.it/posts/less_is_more/</loc>
+    <lastmod>2019-03-15T15:43:11+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.manuelriccadonna.it/gallery/</loc>
     <lastmod>2019-03-14T22:58:40+01:00</lastmod>
   </url>
@@ -29,7 +34,7 @@
   
   <url>
     <loc>https://www.manuelriccadonna.it/posts/</loc>
-    <lastmod>2019-03-06T19:52:15+01:00</lastmod>
+    <lastmod>2019-03-15T15:43:11+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -40,7 +45,7 @@
   
   <url>
     <loc>https://www.manuelriccadonna.it/</loc>
-    <lastmod>2019-03-14T22:58:40+01:00</lastmod>
+    <lastmod>2019-03-15T15:43:11+01:00</lastmod>
     <priority>0</priority>
   </url>
   

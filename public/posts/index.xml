@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Tutt0l4nd|T3ch&amp;M0r3</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 06 Mar 2019 19:52:15 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2019 15:43:11 +0100</lastBuildDate>
     
 	<atom:link href="https://www.manuelriccadonna.it/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Less is more</title>
+      <link>https://www.manuelriccadonna.it/posts/less_is_more/</link>
+      <pubDate>Fri, 15 Mar 2019 15:43:11 +0100</pubDate>
+      
+      <guid>https://www.manuelriccadonna.it/posts/less_is_more/</guid>
+      <description>Provo a mettermi a scrivere una seconda puntata di questo simil blog. Non credo sarà un appuntamento fisso, ma potrebbe essere una serie di post per spiegare perchè questo progetto. O addirittura una serie di interventi a commento di qualcosa. Intanto accontentatevi di alcune massime che ho capito dopo 20 anni di tech:
+ Less is more Cercate ciò che vi serve.. Non fatevi dire dagli altri cosa vi serve.</description>
+    </item>
     
     <item>
       <title>Primo Post</title>
