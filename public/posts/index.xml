@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Tutt0l4nd|T3ch&amp;M0r3</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 15 Mar 2019 15:43:11 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 16 Mar 2019 23:51:06 +0100</lastBuildDate>
     
 	<atom:link href="https://www.manuelriccadonna.it/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Nuova Configurazione - Nuova Vita</title>
+      <link>https://www.manuelriccadonna.it/posts/new_pc/</link>
+      <pubDate>Sat, 16 Mar 2019 23:51:06 +0100</pubDate>
+      
+      <guid>https://www.manuelriccadonna.it/posts/new_pc/</guid>
+      <description>Dopo innumerevoli test e prove.. finalmente ho trova la mia distro linux da battaglia. Ho un notebook DELL Latitude E7240 che ho preso per la mia mobilità. Ho quasi sempre avuto installato W10 perchè leggero e rapido da caricare. Questo notebook non è giovane.. ma con 16GB di Ram e un SSD da 128 gb è estremamente funzionale. Poco tempo fa, guardando un video su Youtube (ve lo lascio in fondo al post) mi sono innamorato di questa distro:</description>
+    </item>
     
     <item>
       <title>Less is more</title>
