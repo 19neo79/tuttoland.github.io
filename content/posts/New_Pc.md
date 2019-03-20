@@ -5,7 +5,7 @@ title = "Nuova Configurazione - Nuova Vita"
 slug = ""
 tags = []
 categories = []
-thumbnail = "images/tn.png"
+thumbnail = "/img/pc.png"
 description = ""
 +++
 <DIV  style="float:right;">![your_img](/img/pc.png)</DIV>

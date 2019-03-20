@@ -5,7 +5,7 @@ title = "Primo Post"
 slug = ""
 tags = []
 categories = []
-thumbnail = "images/tn.png"
+thumbnail = "/img/me.png"
 description = ""
 +++
 <DIV  style="float:left;">![your_img](/img/me.png)</DIV>

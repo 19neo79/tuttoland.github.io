@@ -5,7 +5,7 @@ title = "New Keyboard"
 slug = ""
 tags = []
 categories = []
-thumbnail = "images/tn.png"
+thumbnail = "/img/keyboard.png"
 description = ""
 +++
 <DIV  style="float:left;">![your_img](/img/keyboard.png)</DIV>

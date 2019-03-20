@@ -5,7 +5,7 @@ title = "Less is more"
 slug = ""
 tags = []
 categories = []
-thumbnail = "images/tn.png"
+thumbnail = "/img/less_is_more.png"
 description = ""
 +++
 <DIV  style="float:right;">![your_img](/img/less_is_more.png)</DIV>
