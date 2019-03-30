@@ -61,6 +61,10 @@ pygmentsUseClasses = true # new add
     name = "L1nk3d1n"
     weight = 4
     url = "https://www.linkedin.com/in/manuel-riccadonna-20baa37/"
+[[params.social]]
+    name = "Y0utub3"
+    weight = 5
+    url = "https://www.youtube.com/user/ttlg"
 
 # Menu links
 [[menu.main]]
