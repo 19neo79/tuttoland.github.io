@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Tutt0l4nd|T3ch&amp;M0r3</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 26 Mar 2019 18:57:37 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 30 Mar 2019 14:53:31 +0100</lastBuildDate>
     
 	<atom:link href="https://www.manuelriccadonna.it/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Come mi sono costruito un NAS</title>
+      <link>https://www.manuelriccadonna.it/posts/nas/</link>
+      <pubDate>Sat, 30 Mar 2019 14:53:31 +0100</pubDate>
+      
+      <guid>https://www.manuelriccadonna.it/posts/nas/</guid>
+      <description>Sono sempre alla ricerca della voglia di potermi costruire le cose che mi servono. Ho scoperto da un paio di anno il mondo Raspberry e ho scoperto come con poche cose si possono davvero costruire strumenti molto utili. Avevo poi messo la testa nel mondo di Arduino.. ma non sono stato costante quindi ho abbandonato. Dicevamo del mondo di Raspberry. Ho incrociato per la prima volta il mondo di Raspeberry quando ho visto su youtube una bellissima guida su come costruire una stazione Retrogamer con tutti i giochi da me giocati quando ancora con 200 lire si passava la giornata in sala giochi al mare.</description>
+    </item>
     
     <item>
       <title>In media stat Virtus</title>

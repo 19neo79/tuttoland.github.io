@@ -83,3 +83,7 @@ pygmentsUseClasses = true # new add
     name = "Privacy"
     weight = 4
     url = "privacy"
+[[menu.main]]
+    name = "Contact me"
+    weight = 5
+    url = "https://zfrmz.eu/n62KnbWckm3Qiko2PDtq"
