@@ -73,17 +73,17 @@ pygmentsUseClasses = true # new add
     url  = "posts"
 [[menu.main]]
     name = "Gallery"
-    weight = 2
-    url = "Gallery"
+    weight = 3
+    url  = "Gallery"
 [[menu.main]]
     name = "About"
-    weight = 3
+    weight = 4
     url = "about"
 [[menu.main]]
     name = "Privacy"
-    weight = 4
+    weight = 5
     url = "privacy"
 [[menu.main]]
     name = "Contact me"
-    weight = 5
+    weight = 6
     url = "https://zfrmz.eu/n62KnbWckm3Qiko2PDtq"

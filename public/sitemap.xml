@@ -3,20 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.manuelriccadonna.it/posts/bbt/</loc>
-    <lastmod>2019-05-18T15:28:41+02:00</lastmod>
+    <loc>https://www.manuelriccadonna.it/posts/s01-001/</loc>
+    <lastmod>2019-05-26T15:02:51+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.manuelriccadonna.it/posts/</loc>
-    <lastmod>2019-05-18T15:28:41+02:00</lastmod>
+    <lastmod>2019-05-26T15:02:51+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.manuelriccadonna.it/</loc>
-    <lastmod>2019-05-18T15:28:41+02:00</lastmod>
+    <lastmod>2019-05-26T15:02:51+02:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.manuelriccadonna.it/posts/podcast/</loc>
+    <lastmod>2019-05-25T22:07:25+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.manuelriccadonna.it/posts/bbt/</loc>
+    <lastmod>2019-05-18T15:28:41+02:00</lastmod>
   </url>
   
   <url>
@@ -92,11 +102,6 @@
   <url>
     <loc>https://www.manuelriccadonna.it/about/</loc>
     <lastmod>2019-03-01T15:21:37+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.manuelriccadonna.it/posts/40_2/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
