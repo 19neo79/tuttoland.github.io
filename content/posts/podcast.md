@@ -13,6 +13,6 @@ Più che un podcast le prime 2 puntate sono un CARCAST.. Si perchè l'idea mi è
 L'esperimento non mi è piaciuto, nel senso che la qualità non è eccelsa. PEr questo dalla puntata 002 sicuramente registrerò al chiuso.. nel silenzio della mia postazione.
 Intanto buon ascolto..
 
-<iframe src="https://widget.spreaker.com/player?episode_id=18074424&theme=light&playlist=false&playlist-continuous=false&autoplay=false&live-autoplay=false&chapters-image=true&episode_image_position=right&hide-logo=false&hide-likes=false&hide-comments=false&hide-sharing=false&hide-download=true" width="100%" height="200px" frameborder="0"></iframe>
+<iframe src="https://anchor.fm/tuttoland/embed/episodes/S1-000-Perch-un-ennesimo-podcast-e44jdb" height="210px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 **To be continued..**
