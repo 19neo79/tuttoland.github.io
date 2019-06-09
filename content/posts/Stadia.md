@@ -44,4 +44,12 @@ Ma con cosa posso giocare al rilascio della piattaforma? Ecco la lista dei gioch
 Ovviamente non in maniera gratuita, nel senso che questo abbonamento darà accesso ai server di Google e alla possibilità di giocare ai giochi disponibili in maniera gratuita, ma per i titoli di ultimo grido, ci sarà da pagare il gioco intero o il noleggio, ma questa cosa non è stata spiegata in maniera chiara.
 Comunque.. qui stiamo parlando del futuro, chissà se Google non abbia aperto la strada in cui tutti si butteranno (PS Now si basa alla fine su questo principio, utilizzando però la consolle PS4 o un pc Windows).. chi vivrà vedrà!
 
+### Risorse utili
+[Sito Ufficiale Google Stadia](https://store.google.com/it/product/stadia_founders_edition?srp=/it/magazine/stadia)
+
+[Recensione HDBlog](https://www.hdblog.it/2019/06/06/google-stadia-prezzi-giochi-data-italia-guida/)
+
+[Recensione LegaNerd](https://leganerd.com/2019/06/07/tutti-i-nuovi-dettagli-su-google-stadia/)
+
+
 Buonas Noches..
