@@ -12,7 +12,10 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
 pygmentsUseClasses = true # new add
 
 #disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
-
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+    
 [params] # theme parameters
     author = "Tutt0l4nd|T3ch&M0r3" # Author's name.
     info = "Photo|Video|More" # Author's job title or info.
