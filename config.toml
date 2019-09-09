@@ -1,6 +1,7 @@
 baseurl = "https://www.manuelriccadonna.it" # Hostname (and path) to the root.
 title = "Tutt0l4nd|T3ch&M0r3" # Site title.
 theme = "hugo-coder-portfolio" # Set the theme.
+googleAnalytics = "UA-41615978-3"
 languagecode = "en" # The site’s language code used to generate RSS.
 defaultcontentlanguage = "en" # The default content language.
 
