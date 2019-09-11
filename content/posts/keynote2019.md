@@ -13,4 +13,3 @@ description = ""
   
 ![](/img/apple.png)
 
-<img src="/img/apple.png" alt="apple" width="30"/>
