@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 date = 2019-09-10T20:00:18+02:00
 title = "Ecco le novità Apple!"
 slug = ""
