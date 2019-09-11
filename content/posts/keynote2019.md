@@ -9,7 +9,7 @@ thumbnail = "/img/apple.png"
 description = ""
 +++
 <DIV align="justify">
-<DIV  style="float:left;">![your_img](/img/pensieri.png =30x10)</DIV>
+<DIV  style="float:left;">![your_img](/img/pensieri.png)</DIV>
   
 ![](/img/apple.png)
 
