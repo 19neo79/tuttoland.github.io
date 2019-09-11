@@ -9,7 +9,12 @@ thumbnail = "/img/apple.png"
 description = ""
 +++
 <DIV align="justify">
-<DIV  style="float:left;">![your_img](/img/pensieri.png)</DIV>
-  
-![](/img/apple.png)
+ 
+![](/img/keynote/NewIpad_Prezzo.png)
+![](/img/keynote/watch.png)
+![](/img/keynote/watch_Prezzo.png)
+![](/img/keynote/watch_iphone11.png)
+![](/img/keynote/watch_iphone11_2.png)
+![](/img/keynote/watch_iphone11_prezzo.png)
+
 
