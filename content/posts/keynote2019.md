@@ -28,7 +28,7 @@ Sicuramente più servizi, più concorrenza, e prezzi più bassi.. speriamo.. anc
 <p> Ed ora l'unica novità inaspettata:</p>
 
 > #### **IPAD:**
-<p> <DIV  style="float:right;">![](/img/NewIpad_Prezzo.png)</DIV>Ebbene, come poteva esserci un Keynote senza un nuovo iPAD? Nuovo.. che poi nuovo tanto non è.. hanno unito l'iPAD pro vecchio a questo nuovo, mantenendo il vecchio case (aumentato un pochino i pollici.. da 9.7 a 10.2), hanno dato compatibilità alla Pencil di 1. generazione, hanno inserito la possibilità di agganciare la tastiera con aggancio magnetico..</p>
+<p> <DIV  style="float:right;">![](/img/applekeynote/NewIpad_Prezzo.png)</DIV>Ebbene, come poteva esserci un Keynote senza un nuovo iPAD? Nuovo.. che poi nuovo tanto non è.. hanno unito l'iPAD pro vecchio a questo nuovo, mantenendo il vecchio case (aumentato un pochino i pollici.. da 9.7 a 10.2), hanno dato compatibilità alla Pencil di 1. generazione, hanno inserito la possibilità di agganciare la tastiera con aggancio magnetico..</p>
 **Voto: 4** <br>
 Una cosa inutile, hanno si abbassato il prezzo, hanno dato la possibilità agli store di svuotare i magazzini dei vecchi accessori. Credo che non avrà un granchè successo, soprattutto perchè.. ha ancora il tasto fisico. Ma iPADOS non doveva essere la rivoluzione delle gesture?
 
