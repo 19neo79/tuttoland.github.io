@@ -8,8 +8,7 @@ categories = ["apple"]
 thumbnail = "/img/apple.png"
 description = ""
 +++
-<DIV align="justify">
- 
+<DIV align="justify"> 
 ![](/img/keynote/NewIpad_Prezzo.png)
 ![](/img/keynote/watch.png)
 ![](/img/keynote/watch_Prezzo.png)
