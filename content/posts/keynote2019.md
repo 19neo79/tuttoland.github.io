@@ -9,6 +9,7 @@ thumbnail = "/img/apple.png"
 description = ""
 +++
 <DIV align="justify"> 
+![](/img/apple.png)
 ![](/img/NewIpad_Prezzo.png)
 ![](/img/watch.png)
 ![](/img/watch_Prezzo.png)
