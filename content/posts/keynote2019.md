@@ -1,6 +1,6 @@
 +++
 draft = false
-date = 2019-09-10T20:00:18+02:00
+date = 2019-09-11T20:00:18+02:00
 title = "Ecco le novità Apple!"
 slug = ""
 tags = ["apple", "keynote", "iphone", "iphone11", "ipad", "watch", "arcade", "tv+"]
