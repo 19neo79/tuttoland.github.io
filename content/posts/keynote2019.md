@@ -3,7 +3,7 @@ draft = false
 date = 2019-09-10T20:00:18+02:00
 title = "Ecco le novità Apple!"
 slug = ""
-tags = ["apple", "keynote", "iphone", "iphone11"]
+tags = ["apple", "keynote", "iphone", "iphone11", "ipad", "watch", "arcade", "tv+"]
 categories = ["apple"]
 thumbnail = "/img/apple.png"
 description = ""
@@ -41,4 +41,4 @@ Come detto non sono un amante del genere.. uno per me vale l'altro, ottima tecno
 <p>Ed eccoci alla presentazione tanto aspettata: I nuovi iPhone!:</p>
 #### **iPhone 11**
 <p><DIV  style="float:right;">![](/img/applekeynote/iphone11.png)</DIV>
-Questa volta niente paragrafo scrivo di botto e di getto con tutte le sensazioni provate nel guardare la presentazione di un oggetto bello, ma oramai sempre troppo uguale a se stesso. 
+Questa volta niente paragrafo scrivo di botto e di getto con tutte le sensazioni provate nel guardare la presentazione di un oggetto bello, ma oramai sempre troppo uguale a se stesso. Bene tutto quello presentato, bene tutte le novità della parte fotografica.. ma.. cosa ha di novità rispetto a tutti gli smartphone visti in precedenza? Poco. La forza come si sa è la parte software, nettamente superiore al mondo Android. La parte Hardware è sicuramente all'avanguardia, come la parte fotografica, ma si sa che la differenza la fa la stabilità e la completezza di iOS, sistema davvero completo e inserito alla perfezione nell'ecosistema Apple. <p><DIV  style="float:left;">![](/img/applekeynote/iphone11_2.png)</DIV>
