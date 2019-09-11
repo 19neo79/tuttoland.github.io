@@ -9,11 +9,9 @@ thumbnail = "/img/apple.png"
 description = ""
 +++
 <DIV align="justify"> 
-![](/img/applekeynote/NewIpad_Prezzo.png)
-![](/img/applekeynote/watch.png)
-![](/img/applekeynote/watch_Prezzo.png)
-![](/img/applekeynote/watch_iphone11.png)
-![](/img/applekeynote/watch_iphone11_2.png)
-![](/img/applekeynote/watch_iphone11_prezzo.png)
-
-
+![](/img/NewIpad_Prezzo.png)
+![](/img/watch.png)
+![](/img/watch_Prezzo.png)
+![](/img/watch_iphone11.png)
+![](/img/watch_iphone11_2.png)
+![](/img/watch_iphone11_prezzo.png)
