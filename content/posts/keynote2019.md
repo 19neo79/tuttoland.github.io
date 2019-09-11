@@ -8,11 +8,28 @@ categories = ["apple"]
 thumbnail = "/img/apple.png"
 description = ""
 +++
-<DIV align="justify"> 
-![](/img/apple.png)
-![](/img/NewIpad_Prezzo.png)
-![](/img/watch.png)
-![](/img/watch_Prezzo.png)
-![](/img/iphone11.png)
-![](/img/iphone11_2.png)
-![](/img/iphone11_prezzo.png)
+<DIV align="justify">
+<DIV  style="float:right;">![](/img/apple.png)</DIV>
+<p>Partiamo da un presupposto, oramai Apple non mi stupisce più. Sono anni che segui i Keynote, i WWDC ecc ecc, ma oramai ci sono più leaks e rumors che altro. Capisco che sia impossibile nascondere tutto, ma la vera sorpresa oramai non esiste più! Sapevamo già tutto di questi modelli in presentazione, sapevamo tutto dei servizi, dei prodotti.. e quindi.. è mancata la magia. Perchè da Apple ti aspetti sempre la magia, ti aspetti la rivoluzione, ma credo che ultimamente non è lo stupore che gli uomini di Cupertino vogliono vendere.. vogliono vendere punto! E quindi manca ciò che Steve ci lasciava alla fine di ogni presentazione.. ONE MORE THING.
+Lascio un piccolo recap di cosa ho visto con i miei personali voti.. e le conclusioni alla fine:</p>
+
+> #### **Arcade:**
+<p>Servizio Apple dedicato ai giochi, abbonamento mensile a 4.99€ con disponibilità per il download di diversi giochi senza pubblicità.</p>
+**Voto: 7 a crescere:** <br>
+Dipende da cosa vogliono inserire nel catalogo e che tipo di giochi troveremo. Durante la presentazione, belli graficamente.. ma mi sembravano veramente.. banali.
+
+<p> Il Keynote poi è proseguito con la presentazione della piattaforma streaming:</p>
+
+> #### **TV+:**
+<p>Sicuramente un servizio molto interessante. Stanno facendo a gara per rubare clienti a Netflix, proponendo un sacco di servizi streaming. Disney+ e adesso TV+. Serie Tv disponibili mensilmente, con il catalogo che si riempirà pian pianino. Dal 1. Novembre a 4.99€, tanto per rompere le scatole a Disney+ in uscita il 14. di Novembre.</p>
+**Voto: 8.5:** <br>
+Sicuramente più servizi, più concorrenza, e prezzi più bassi.. speriamo.. anche perchè Apple ci ha investito un botto di soldi!
+
+<p> Ed ora l'unica novità inaspettata:</p>
+
+> #### **IPAD:**
+<p> <DIV  style="float:right;">![](/img/NewIpad_Prezzo.png)</DIV>Ebbene, come poteva esserci un Keynote senza un nuovo iPAD? Nuovo.. che poi nuovo tanto non è.. hanno unito l'iPAD pro vecchio a questo nuovo, mantenendo il vecchio case (aumentato un pochino i pollici.. da 9.7 a 10.2), hanno dato compatibilità alla Pencil di 1. generazione, hanno inserito la possibilità di agganciare la tastiera con aggancio magnetico..</p>
+**Voto: 4** <br>
+Una cosa inutile, hanno si abbassato il prezzo, hanno dato la possibilità agli store di svuotare i magazzini dei vecchi accessori. Credo che non avrà un granchè successo, soprattutto perchè.. ha ancora il tasto fisico. Ma iPADOS non doveva essere la rivoluzione delle gesture?
+
+<p>Ed eccoci alla presentazione tanto aspettata: I nuovi iPhone!:</p>
