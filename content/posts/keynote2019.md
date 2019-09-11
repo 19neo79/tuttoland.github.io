@@ -34,9 +34,9 @@ Una cosa inutile, hanno si abbassato il prezzo, hanno dato la possibilità agli 
 
 <p> Altra cosa inaspettata ma non più di tanto..</p>
 > #### **WATCH Serie 5:**
-<p><DIV  style="float:right;">![](/img/applekeynote/watch.png)</DIV>Diciamo che non era inaspettato, ma si pensava arrivassero solo dei nuovi materiali (ceramica e acciaio che alla fine sono realmente arrivati ma a che prezzi!) ed invece.. ecco la nuova serie con tanto di celebrazione che un Apple Watch ti salva la vita. E' davvero così importante? Credo che possa aiutare a livello di battito cardiaco..sono di parte.. non sono mai stato un grande estimatore dell'oggetto quindi sono di parte! Comunque è un bell'oggetto non c'è nulla da dire..fa figo avere un Apple Watch!</p>
-**Voto: 6+**<br>
-Come detto non sono un amante del genere.. uno per me vale l'altro, ottima tecnologia, figata di funzioni.. ma sono sempre dei bei soldini da spendere. Se si prende tutto diventa un casino!
+> <p><DIV  style="float:right;">![](/img/applekeynote/watch.png)</DIV>Diciamo che non era inaspettato, ma si pensava arrivassero solo dei nuovi materiali (ceramica e acciaio che alla fine sono realmente arrivati ma a che prezzi!) ed invece.. ecco la nuova serie con tanto di celebrazione che un Apple Watch ti salva la vita. E' davvero così importante? Credo che possa aiutare a livello di battito cardiaco..sono di parte.. non sono mai stato un grande estimatore dell'oggetto quindi sono di parte! Comunque è un bell'oggetto non c'è nulla da dire..fa figo avere un Apple Watch!</p>
+> **Voto: 6+**<br>
+> Come detto non sono un amante del genere.. uno per me vale l'altro, ottima tecnologia, figata di funzioni.. ma sono sempre dei bei soldini da spendere. Se si prende tutto diventa un casino!
 
 <p>Ed eccoci alla presentazione tanto aspettata: I nuovi iPhone!:</p>
 #### **iPhone 11**
