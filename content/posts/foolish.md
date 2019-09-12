@@ -38,4 +38,4 @@ anni Sessanta, prima dei personal computer e del desktop publishing, quando tutt
 
 Vi lascio qui sotto il filmato..
 
-{{< youtube oObxNDYyZPs >}}
+{{< youtube iVffrEX_YCc >}}
