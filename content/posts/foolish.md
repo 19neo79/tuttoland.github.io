@@ -1,6 +1,6 @@
 +++
 draft = false
-date = 2019-09-12T14:00:51+02:00
+date = 2019-09-12T19:00:51+02:00
 title = "Stay Hungry.. Stay Foolish"
 slug = ""
 tags = ["apple", "stevejobs", "stanford"]
