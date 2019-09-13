@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 date = 2019-09-12T14:00:51+02:00
 title = "Stay Hungry.. Stay Foolish"
 slug = ""
@@ -39,3 +39,7 @@ anni Sessanta, prima dei personal computer e del desktop publishing, quando tutt
 Vi lascio qui sotto il filmato..
 
 {{< youtube iVffrEX_YCc >}}
+
+Ognuno poi si faccia il suo pensiero..
+
+Buonas tardes!
