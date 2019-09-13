@@ -9,6 +9,7 @@ thumbnail = "/img/storie.png"
 description = ""
 +++
 <DIV align="justify">
+<DIV  style="float:right;">![your_img](/img/storie.png)</DIV>
 Eccomi a scrivere un nuovo post, che è in coda alla mia voglia di dimostrarmi che so essere **costante** quando prendo qualche impegno.
 Eh si, perchè per essere il più possibile presenti bisogna essere:
 
