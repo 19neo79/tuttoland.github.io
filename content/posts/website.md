@@ -8,7 +8,7 @@ categories = []
 thumbnail = "/img/website.png"
 description = ""
 +++
-<DIV  style="float:left;">![your_img](/img/pensieri2.png)</DIV>
+<DIV  style="float:right;">![your_img](/img/pensieri2.png)</DIV>
 <DIV align="justify">
   **ATTENZIONE ARTICOLO AD ALTI CONTENUTI NERD**
   
