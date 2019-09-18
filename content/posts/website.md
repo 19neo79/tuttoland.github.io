@@ -9,7 +9,6 @@ thumbnail = "/img/website.png"
 description = ""
 +++
 <DIV  style="float:right;">![your_img](/img/pensieri2.png)</DIV>
-<DIV align="justify">
   **ATTENZIONE ARTICOLO AD ALTI CONTENUTI NERD**
   
 Lo so, lo avevo promesso. Non ho più messo aggiornamenti sui miei pensieri, o sul fatto che avevo deciso di mettermi a posto fisicamente.
