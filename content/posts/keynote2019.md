@@ -8,6 +8,7 @@ categories = ["apple"]
 thumbnail = "/img/apple.png"
 description = ""
 +++
+<iframe src="https://widget.spreaker.com/player?episode_id=19126728&theme=light&playlist=false&playlist-continuous=false&autoplay=false&live-autoplay=false&chapters-image=true&episode_image_position=right&hide-logo=false&hide-likes=false&hide-comments=false&hide-sharing=false&hide-download=true" width="100%" height="200px" frameborder="0"></iframe>
 <DIV  style="float:right;">![](/img/apple.png)</DIV>
 <p>Partiamo da un presupposto, oramai Apple non mi stupisce più. Sono anni che segui i Keynote, i WWDC ecc ecc, ma oramai ci sono più leaks e rumors che altro. Capisco che sia impossibile nascondere tutto, ma la vera sorpresa oramai non esiste più! Sapevamo già tutto di questi modelli in presentazione, sapevamo tutto dei servizi, dei prodotti.. e quindi.. è mancata la magia. Perchè da Apple ti aspetti sempre la magia, ti aspetti la rivoluzione, ma credo che ultimamente non è lo stupore che gli uomini di Cupertino vogliono vendere.. vogliono vendere punto! E quindi manca ciò che Steve ci lasciava alla fine di ogni presentazione.. ONE MORE THING.
 Lascio un piccolo recap di cosa ho visto con i miei personali voti.. e le conclusioni alla fine:</p>
