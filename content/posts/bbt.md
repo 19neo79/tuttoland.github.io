@@ -9,7 +9,6 @@ thumbnail = "/img/basinga.jpg"
 description = ""
 +++
 <DIV  style="float:left;">![your_img](/img/bbt1.png)</DIV>
-<DIV align="justify">
 Dopo esattamente 12 anni finisce un'era. Finisce una delle mie serie preferite..The Big Bang Theory.. da buon nerd ero particolarmente legato alle vicende dei 7 (5 originali) protagonisti degli intrecci ambientata a Pasadena (LA). **ATTENZIONE!!** non ci saranno **spoiler** sia ben chiaro!!!
 Per chi non la conosce (dubito che nessuno abbia sentito parlare di Sheldon, Leonard, Penny ecc ecc) è una serie tv cult in tutto il mondo che tratta le avventure tragicomiche di 4 amici nerd [2 fisici (Sheldon e Leonard), un atrofisico (Raj) e un ingegnere (Howard)] che fanno del loro essere particolari e stravanganti il leit motiv della serie..se in questo mix mettiamo prima Penny (la bionda "stupida" che alla fine è molto più saggia di quello che sembra) e le "new entry" Amy (che fa capitolare Sheldon) e Bernadette (che fa diventare padre per ben due volte Howard) capite perchè il successo è stato planetario. Tratta argomenti molto leggeri ma anche molto impegnati, mixando stati d'animo e attualità e trovando quasi sempre lo spunto finale ad ogni episodio per poter
 <DIV  style="float:right;">![your_img](/img/bbt.png)</DIV>
