@@ -8,7 +8,6 @@ categories = ["apple"]
 thumbnail = "/img/podcast.png"
 description = ""
 +++
-<DIV align="justify">
 
 Puntata dedicata esclusivamente all'evento di Apple dedicata a tutti i rumors raccolti online.
 
