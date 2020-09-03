@@ -9,7 +9,6 @@ thumbnail = "/img/pc.png"
 description = ""
 +++
 <DIV  style="float:right;">![your_img](/img/pc.png)</DIV>
-<DIV align="justify">
 Dopo innumerevoli test e prove.. finalmente ho trova la mia distro linux da battaglia. Ho un notebook DELL Latitude E7240 che ho preso per la mia mobilità. Ho quasi sempre avuto installato W10 perchè leggero e rapido da caricare. Questo notebook non è giovane.. ma con 16GB di Ram e un SSD da 128 gb è estremamente funzionale. Poco tempo fa, guardando un video su Youtube (ve lo lascio in fondo al post) mi sono innamorato di questa distro:
 
 **ANTERGOS con Desktop DEEPIN**
