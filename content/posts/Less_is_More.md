@@ -9,7 +9,6 @@ thumbnail = "/img/less_is_more.png"
 description = ""
 +++
 <DIV  style="float:right;">![your_img](/img/less_is_more.png)</DIV>
-<DIV align="justify">
 Provo a mettermi a scrivere una seconda puntata di questo simil blog. Non credo sarà un appuntamento fisso, ma potrebbe essere una serie di post per spiegare perchè questo progetto. O addirittura una serie di interventi a commento di qualcosa. Intanto accontentatevi di alcune massime che ho capito dopo 20 anni di tech:
 
 - Less is more
