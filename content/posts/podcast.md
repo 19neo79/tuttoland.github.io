@@ -8,7 +8,6 @@ categories = []
 thumbnail = "/img/podcast.png"
 description = ""
 +++
-<DIV align="justify">
 Più che un podcast le prime 2 puntate sono un PODCAR.. Si perchè l'idea mi è venuta perchè per 20 minuti sono su una macchina che mi porta verso il lavoro. Quindi ho provato a dedicare questo tempo per registrarmi e vedere cosa veniva fuori..
 L'esperimento non mi è piaciuto, nel senso che la qualità non è eccelsa. PEr questo dalla puntata 002 sicuramente registrerò al chiuso.. nel silenzio della mia postazione.
 Intanto buon ascolto..
