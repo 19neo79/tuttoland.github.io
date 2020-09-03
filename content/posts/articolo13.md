@@ -9,7 +9,6 @@ thumbnail = "/img/Articolo13.png"
 description = ""
 +++
 <DIV  style="float:right;">![your_img](/img/Articolo13.png)</DIV>
-<DIV align="justify">
 Da due giorni non sento altro che parlare del Chaos! Libera Internet, Bavaglio messo dall'Europa.. Soppressione della creatività, uccisione dei piccoli creator.. Censura preventiva, Minority Report.. ecc ecc. Ma dove sta la verità? In media stat Virtus. Bisogna capire e leggere bene cosa si è legiferato prima di generare Fake News, falsi allarmismi ecc ecc. Sia da quelli favorevoli e che dai contrari. Ebbene.. io ho letto e riletto prima di scrivere le mie considerazioni. Perchè mi sono informato, ho cercato di leggere tutte le news che mi hanno portato a consigliarvi di leggere il miglior articolo possibile.
 Credo che Wired Italia sia sempre all'avanguardia con le news.. Leggetevelo e fatevi una vostra idea. Perchè non esiste posizione se si segue la massa. Diventiamo automi al soldo di chi vuole generare malainformazioni. Siate curiosi, pensate con la vostra testa e createvi la vostra posizione in un discorso. Non fatevi mettere in testa notizie false, studiate..siate curiosi..
 <br>
