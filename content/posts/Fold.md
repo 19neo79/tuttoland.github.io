@@ -9,7 +9,6 @@ thumbnail = "/img/Samsung.png"
 description = ""
 +++
 <DIV  style="float:right;">![your_img](/img/Samsung.png)</DIV>
-<DIV align="justify">
 E ci risiamo.. e stavolta ancor prima di metterlo in commercio.. AHI AHI AHI Samsung!! Io mi chiedo..ma quale possibile scenario può far immettere nel mercato (anzi ancora no.. stiamo parlando di pre-distribuzione visto che il lancio del fatidico SAMSUNG FOLD dovrebbe essere il 3 maggio!) un prodotto per nulla pronto? Al prezzo di 2k $? Ricapitolando, stiamo parlando del Samsung Fold, il rivoluzionario Smartphone della casa coreana che avrebbe dovuto cambiare il concetto di Smartphone e trasformarlo in uno strumento di lavoro promisquo, TABLET + Telefono. Se non sapete di cosa stia parlando guardate il video qui sotto:
 <br>
 <br>
