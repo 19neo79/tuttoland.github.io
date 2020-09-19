@@ -49,10 +49,10 @@ pygmentsUseClasses = true # new add
     langseparator = "|" # Separates menus from language selectors when site is multilingual.
 
 # Social links
-[[params.social]]
-    name = "1nst4gr4m"
-    weight = 1
-    url = "https://www.instagram.com/tuttologo79"
+#[[params.social]]
+#   name = "1nst4gr4m"
+#   weight = 1
+#   url = "https://www.instagram.com/tuttologo79"
 [[params.social]]
     name = "Tw1tt3r"
     weight = 2
