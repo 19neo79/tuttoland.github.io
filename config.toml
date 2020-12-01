@@ -22,7 +22,7 @@ pygmentsUseClasses = true # new add
     info = "Photo|Video|More" # Author's job title or info.
     description = "Manuel Riccadonna's personal website" # Site description.
     keywords = "blog,developer,personal" # Site keywords.
-    avatarurl = "img/Natale1.png" # Contain the path of the optionnal avatar in the static folder.
+    avatarurl = "img/Natale1.png.png" # Contain the path of the optionnal avatar in the static folder.
 
     footercontent = "2020#ManuelRiccadonna" # Add footer content
     #fixedbarContent = "Do you want to know me more private?→" # Add fixedbar content
