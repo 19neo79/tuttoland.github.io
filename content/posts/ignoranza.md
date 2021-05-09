@@ -1,12 +1,12 @@
 +++
 draft = true
 date = 2020-03-14T14:46:57+02:00
-title = "Quarantena..nel 2020"
+title = "Beata Ignoaranza..nel 2021"
 slug = ""
 tags = []
 categories = []
-thumbnail = "/img/comple.png"
+thumbnail = "/img/squali.png"
 description = ""
 +++
-<DIV  style="float:left;">![your_img](/img/comple.png)</DIV>
+<DIV  style="float:left;">![your_img](/img/squali.png)</DIV>
 <DIV align="justify">
