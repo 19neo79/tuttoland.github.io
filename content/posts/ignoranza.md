@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 date = 2020-03-14T14:46:57+02:00
 title = "Beata Ignoaranza..nel 2021"
 slug = ""
@@ -9,4 +9,4 @@ thumbnail = "/img/squali.png"
 description = ""
 +++
 <DIV  style="float:left;">![your_img](/img/squali.png)</DIV>
-<DIV align="justify">
+Prove tecniche di trasmissione
