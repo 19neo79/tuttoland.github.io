@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 date = 2021-05-09T14:46:57+02:00
 title = "Beata Ignoaranza..nel 2021"
 slug = ""
