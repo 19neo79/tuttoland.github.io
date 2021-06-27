@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 date = 2021-06-27T18:46:57+02:00
 title = "La pandemia ha creato.."
 slug = ""
