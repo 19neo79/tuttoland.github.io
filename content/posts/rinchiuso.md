@@ -1,7 +1,7 @@
 +++
 draft = true 
 date = 2023-06-23T14:40:57+02:00 
-title = "Rinchiuso nella stanza dei bototni" 
+title = "Rinchiuso nella stanza dei bottoni" 
 slug = "" 
 tags = [] 
 categories = [] 
