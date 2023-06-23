@@ -1,4 +1,13 @@
-+++ draft = true date = 2023-06-23T14:40:57+02:00 title = "Rinchiuso nella stanza dei bototni" slug = "" tags = [] categories = [] thumbnail = "/img/calcoli.png" description = "" +++
++++
+draft = true 
+date = 2023-06-23T14:40:57+02:00 
+title = "Rinchiuso nella stanza dei bototni" 
+slug = "" 
+tags = [] 
+categories = [] 
+thumbnail = "/img/calcoli.png" 
+description = "" 
++++
 
 Preambolo
 ![your_img](/img/calcoli.png)
