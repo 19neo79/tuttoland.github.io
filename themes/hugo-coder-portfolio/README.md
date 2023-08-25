@@ -54,8 +54,8 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
     fixedbarContentAfter = "Thank You! Please share it if you like it→" # Add fixedbar content after click
 
     # Whether you want to hide copyright and credits in the footer.
-    hideCredits = false
-    hideCopyright = false
+    hideCredits = true
+    hideCopyright = true
 
     # Custom CSS
     custom_css = []
