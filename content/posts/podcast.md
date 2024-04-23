@@ -12,6 +12,6 @@ Più che un podcast le prime 2 puntate sono un PODCAR.. Si perchè l'idea mi è 
 L'esperimento non mi è piaciuto, nel senso che la qualità non è eccelsa. PEr questo dalla puntata 002 sicuramente registrerò al chiuso.. nel silenzio della mia postazione.
 Intanto buon ascolto..
 
-<a class="spreaker-player" href="https://www.spreaker.com/episode/perche-un-ennesimo-podcast-part-1--19040299" data-resource="episode_id=19040299" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true">Ascolta "Perché un ennesimo podcast part.1" su Spreaker.</a>
+<iframe src="https://widget.spreaker.com/player?episode_id=19040299&theme=light&playlist=false&playlist-continuous=false&chapters-image=true&episode_image_position=right&hide-logo=false&hide-likes=false&hide-comments=false&hide-sharing=false&hide-download=true" width="100%" height="200px" frameborder="0"></iframe>
 
 **To be continued..**
