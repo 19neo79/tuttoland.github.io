@@ -8,7 +8,6 @@ categories = []
 thumbnail = "/img/service.png"
 description = ""
 +++
-<DIV  style="float:right;">![your_img](/img/service.png)</DIV>
 Le novità erano già tutte conosciute, per questo questo Keynote di Apple.. non mi ha stupito. La variazione, o meglio l'implementazione di nuovi servizi nell'ecosistema Apple era nell'aria. Troppo ghiotto un mercato con pochi padroni per non provare a metterci pretpotentemente il naso. E così è successo anche ad Apple. Fare il primo Keynote senza presentare nulla di nuovo a livello di Hardware (aveva già tutto presentato nel corso dell'ultima settimana) è una notizia.. ma Il buon Tim Apple(!) ha riempito per bene 2 ore complete con le solite voci urlanti dagli spalti e il fatto che Apple è numero uno in quasi tutto quello che fa. E così nel menù sono arrivati in ordine:
 
 Nuovo **APPLE NEWS** (rivisitato)<br>
