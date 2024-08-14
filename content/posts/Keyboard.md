@@ -13,5 +13,7 @@ Ne ho trovata una bluetooth.. e soprattutto con layout italiano. Non che questo 
 Sto scrivendo da una lofree DOT presa su indiegogo credo. Bellissima in stile retro, con il classico rumore dei tasti in stile Olivetti. Solo che hai 2 piccolissimi problemi: 1. ha il layout americano, e quindi anche mettendo il layout italiano perde la ricerca delle accentate. 2. Ha i tasti messi a caso e soprtatto ha la riga dei numeri leggermente sfalsata. Ti capita di schiacciare il due convinto che sia il 3 e così via. ( per esempio per fare questa ì ho premuto 20 tasti)
 Ora.. sono finito su una tastiera sempre bluetooth ma italiana: LA DREVO CALIBUR. Sempre meccanica, sempre wireless.
 Appena mi arriva..vi saprò dire..
+
 Buona notte..
+
 MR
