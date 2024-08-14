@@ -41,7 +41,7 @@ pygmentsUseClasses = true # new add
     # RTL support
     rtl = false
 
-    snsShare = true # new add
+    snsShare = false # new add
 
     thumbnail = "images/tn.png" # default sns thumbnail
 
