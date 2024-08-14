@@ -12,4 +12,7 @@ Nella vita capita davvero spesso di trovarsi davanti a delle Sliding Doors. E' i
 Anche se so che pochi lo leggono (direi nessuno.. hihi) a volte sfogarsi scrivendo mi fa stare più leggero. Le scelte dicevo, quelle che potrebbero cambiarti la vita. Ovviamente si sa sempre cosa si lascia, e non si sa cosa ci aspetta, altrimenti sarebbe veramente semplice sapere le conseguenze che portano i cambiamenti. Perchè alla fine sono i cambiamenti che possono spaventare e le paure che portano tali cambiamenti. Ebbene, io i cambiamenti li ho visti sempre come un fatto positivo, di crescita, di ricchezza personale. E le paure uno stimolo per conoscere cosa potrebbe succedere. Ma in questo caso è diverso. Non sono nè i cambiamenti nè le paure che mi fanno pensare. Ma una inaspettata richiesta della mia professionalità lavorativa. E questo che da una parte mi riempie d'orgoglio, dall'altra mi fa sorgere tantissime domande sul perchè. A volte confrontarsi sul quanto si vale è estremamente importante. Soprattutto per capire il mercato lavorativo esterno alla propria comfort zone. E questa volta, la ricerca non è stata mia, ma sono stato ricercato.. :)
 Ora mi fermo qui e vi aggiornerò sulle mie decisioni.
 Altra piccola cosa. Ho deciso di rimettere in forma questo monolite che mi accompagna. Quindi..mi piacerebbe condividere la mia esperienza qui.. in qualche modo. Intanto..
+
 Buenas tardes!
+
+MR
