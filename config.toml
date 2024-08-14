@@ -24,7 +24,7 @@ pygmentsUseClasses = true # new add
     keywords = "blog,developer,personal" # Site keywords.
     avatarurl = "img/avatar1.png" # Contain the path of the optionnal avatar in the static folder.
 
-    footercontent = "2023#ManuelRiccadonna" # Add footer content
+    footercontent = "2024#ManuelRiccadonna" # Add footer content
     #fixedbarContent = "Do you want to know me more private?→" # Add fixedbar content
     #fixedbarContentAfter = "Thank You! Please share it if you like it→" # Add fixedbar content after click
 
@@ -50,11 +50,11 @@ pygmentsUseClasses = true # new add
 
 # Social links
 #[[params.social]]
-#   name = "1nst4gr4m"
-#   weight = 1
-#   url = "https://www.instagram.com/tuttologo79"
+    name = "1nst4gr4m"
+    weight = 1
+    url = "https://www.instagram.com/emmerrevideophoto/"
 [[params.social]]
-    name = "Tw1tt3r"
+    name = "X"
     weight = 2
     url = "https://twitter.com/tuttologo79"
 [[params.social]]
