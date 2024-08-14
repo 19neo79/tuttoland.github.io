@@ -8,16 +8,8 @@ categories = []
 thumbnail = "/img/Samsung.png"
 description = ""
 +++
-<DIV  style="float:right;">![your_img](/img/Samsung.png)</DIV>
 E ci risiamo.. e stavolta ancor prima di metterlo in commercio.. AHI AHI AHI Samsung!! Io mi chiedo..ma quale possibile scenario può far immettere nel mercato (anzi ancora no.. stiamo parlando di pre-distribuzione visto che il lancio del fatidico SAMSUNG FOLD dovrebbe essere il 3 maggio!) un prodotto per nulla pronto? Al prezzo di 2k $? Ricapitolando, stiamo parlando del Samsung Fold, il rivoluzionario Smartphone della casa coreana che avrebbe dovuto cambiare il concetto di Smartphone e trasformarlo in uno strumento di lavoro promisquo, TABLET + Telefono. Se non sapete di cosa stia parlando guardate il video qui sotto:
-<br>
-<br>
-<br>
-<br>
-<br>
-
 {{< youtube 7r_UgNcJtzQ >}}
-
 Ebbene come dicevo, lo smartphone è stato inviato in anticipo a molti Influencer e testate giornalistiche Tech due giorni fa.. e dopo due giorni: PATATRACK!!
 Telefoni rotti, display non funzionanti, bolle che si creano sul display pieghevole.. Ma stiamo scherzando??
 Leggendo [Leganerd.com](https://leganerd.com/) ho trovato diversi spunti e link sulla nuova disfatta di SAMSUNG, buttandosi alla disperata ricerca di anticipare tutti con un prodotto.. **bruttino** e secondo me poco versatile soprattutto per il prezzo (2000 €!!) Vi lascio [l'articolo](https://leganerd.com/2019/04/18/disastro-samsung-galaxy-fold/), leggetelo bene mi raccomando.
