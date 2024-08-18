@@ -6,7 +6,6 @@ languagecode = "en" # The site’s language code used to generate RSS.
 defaultcontentlanguage = "en" # The default content language.
 
 paginate = 20 # Default number of pages per page in pagination.
-
 pygmentsstyle = "b2" # Color-theme or style for syntax highlighting.
 pygmentscodefences = true # Enable code fence background highlighting.
 pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences without specified language.
@@ -30,7 +29,7 @@ pygmentsUseClasses = true # new add
 
     # Whether you want to hide copyright and credits in the footer.
     hideCredits = true
-    hideCopyright = true
+    hideCopyright = false
 
     # Custom CSS
     custom_css = []
@@ -41,7 +40,7 @@ pygmentsUseClasses = true # new add
     # RTL support
     rtl = false
 
-    snsShare = false # new add
+    snsShare = true # new add
 
     thumbnail = "images/tn.png" # default sns thumbnail
 
