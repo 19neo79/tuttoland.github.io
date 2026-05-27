@@ -4,11 +4,13 @@ theme = "hugo-coder-portfolio"
 # googleAnalytics = "UA-41615978-3"  # UA dismesso da Google nel 2023 - da aggiornare a GA4
 languagecode = "it"
 defaultcontentlanguage = "it"
-paginate = 20
 pygmentsstyle = "b2"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 pygmentsUseClasses = true
+
+[pagination]
+  pagerSize = 20
 
 [taxonomies]
     tag = "tags"
@@ -27,7 +29,7 @@ pygmentsUseClasses = true
     itemscentered = true
     rtl = false
     snsShare = true
-    thumbnail = "/images/tn.png"  # fix: aggiunto slash iniziale
+    thumbnail = "/images/tn.png"
     langseparator = "|"
 
 [[params.social]]
@@ -41,33 +43,4 @@ pygmentsUseClasses = true
 [[params.social]]
     name = "Facebook"
     weight = 3
-    url = "https://www.facebook.com/tuttologo"
-[[params.social]]
-    name = "LinkedIn"
-    weight = 4
-    url = "https://www.linkedin.com/in/manuel-riccadonna-20baa37/"
-[[params.social]]
-    name = "YouTube"
-    weight = 5
-    url = "https://www.youtube.com/user/ttlg"
-
-[[menu.main]]
-    name = "Blog"
-    weight = 1
-    url  = "posts"
-[[menu.main]]
-    name = "Gallery"
-    weight = 3
-    url  = "Gallery"
-[[menu.main]]
-    name = "About"
-    weight = 4
-    url = "about"
-[[menu.main]]
-    name = "Privacy"
-    weight = 5
-    url = "privacy"
-[[menu.main]]
-    name = "Contact me"
-    weight = 6
-    url = "https://zfrmz.eu/n62KnbWckm3Qiko2PDtq"
+    url = "https://www.facebook.com/tut
