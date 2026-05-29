@@ -69,7 +69,7 @@ defaultcontentlanguage = "it"
 [[menu.main]]
   name = "Contatti"
   weight = 4
-  url = ""/contact/"
+  url = "/contact/"
 
 [[menu.main]]
   name = "Privacy"
