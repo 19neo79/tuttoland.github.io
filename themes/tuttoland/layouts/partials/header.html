@@ -1,11 +1,6 @@
 <header class="site-header">
   <div class="wrapper">
-    <a href="{{ .Site.BaseURL }}" class="site-logo">
-      {{- if .Site.Params.avatarurl -}}
-      <img src="{{ .Site.Params.avatarurl | absURL }}" alt="{{ .Site.Params.author }}" style="width:32px;height:32px;border-radius:50%;vertical-align:middle;margin-right:10px;display:inline-block;">
-      {{- end -}}
-      {{ .Site.Params.author | default .Site.Title }}
-    </a>
+    <a href="{{ .Site.BaseURL }}" class="site-logo" style="white-space:nowrap;">Manuel Riccadonna</a>
 
     <nav class="site-nav" id="site-nav" aria-label="Navigazione principale">
       {{ range .Site.Menus.main }}

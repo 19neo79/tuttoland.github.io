@@ -84,6 +84,7 @@ img { max-width: 100%; height: auto; display: block; }
   font-size: 18px;
   color: var(--text);
   letter-spacing: -0.02em;
+  white-space: nowrap;
 }
 
 .site-logo span { color: var(--accent); }
