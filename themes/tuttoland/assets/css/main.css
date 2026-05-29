@@ -687,3 +687,8 @@ img { max-width: 100%; height: auto; display: block; }
 @media (max-width: 480px) {
   .gallery-masonry { columns: 1; }
 }
+.avatar-light { display: none; }
+.avatar-dark { display: block; }
+
+[data-theme="light"] .avatar-light { display: block; }
+[data-theme="light"] .avatar-dark { display: none; }

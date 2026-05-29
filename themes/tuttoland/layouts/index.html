@@ -3,7 +3,8 @@
   <div class="wrapper">
     {{ if .Site.Params.avatarurl }}
     <div class="hero-avatar">
-      <img src="{{ .Site.Params.avatarurl | absURL }}" alt="{{ .Site.Params.author }}">
+      <img src="/img/avatar_orange_glasses.png" alt="{{ .Site.Params.author }}" class="avatar-dark">
+      <img src="/img/avatar_clean.png" alt="{{ .Site.Params.author }}" class="avatar-light">
     </div>
     {{ end }}
 
