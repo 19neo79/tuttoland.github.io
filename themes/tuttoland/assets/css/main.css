@@ -492,7 +492,7 @@ img { max-width: 100%; height: auto; display: block; }
   display: grid;
   grid-template-columns: auto 1fr;
   gap: 32px;
-  align-items: start;
+  align-items: center;
   margin-bottom: 48px;
   padding-bottom: 48px;
   border-bottom: 0.5px solid var(--border);
@@ -508,7 +508,12 @@ img { max-width: 100%; height: auto; display: block; }
   background: transparent;
 }
 
-.about-avatar img { width: 100%; height: 100%; object-fit: cover; }
+.about-avatar img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center top;
+}
 
 .about-name {
   font-family: var(--font-display);
