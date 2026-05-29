@@ -1,31 +1,35 @@
 ---
 title: "Chi sono"
-description: "Scopri chi è Manuel Riccadonna — appassionato di fotografia, video e tecnologia da Bolzano."
+description: "Manuel Riccadonna — appassionato di tecnologia, fotografia e video da Bolzano. Geek con un'anima connessa al mondo reale."
+draft: false
 ---
 
 <div class="about-page">
   <div class="about-intro">
     <div class="about-avatar">
-      <img src="/img/avatar1.png" alt="Manuel Riccadonna">
+      <img src="/img/photo_dark.png" alt="Manuel Riccadonna" class="avatar-dark">
+      <img src="/img/photo_light.png" alt="Manuel Riccadonna" class="avatar-light">
     </div>
     <div>
       <h1 class="about-name">Manuel Riccadonna</h1>
-      <p class="about-role">Fotografia · Video · Tech · Bolzano</p>
-      <p style="color: var(--text-secondary); line-height: 1.8;">Ciao! Sono Manuel, un appassionato di tecnologia, fotografia e video che vive a Bolzano. Questo spazio online è il mio angolo digitale dove condivido pensieri, esperienze e progetti.</p>
+      <p class="about-role">Photo · Video · Tech · Bolzano</p>
+      <p style="color: var(--text-secondary); line-height: 1.8;">Geek di professione, essere umano per vocazione. Vivo a Bolzano, in bilico tra le Dolomiti e il mondo digitale.</p>
     </div>
   </div>
 
   <div class="about-content">
-    <h2>La mia storia</h2>
-    <p>Sono cresciuto con la curiosità di capire come funzionano le cose — dai gadget elettronici alle macchine fotografiche, dai software ai sistemi operativi. Nel tempo questa curiosità si è trasformata in passione vera e propria, diventando parte del mio quotidiano.</p>
-    <p>Ho iniziato questo blog nel 2019 con l'idea di raccogliere le mie riflessioni sul mondo tech, condividere scoperte interessanti e documentare i miei progetti creativi legati alla fotografia e al video.</p>
 
-    <h2>Cosa faccio</h2>
-    <p>Mi occupo di fotografia e produzione video, con un occhio di riguardo per l'estetica e la narrazione visiva. Parallèlamente seguo con interesse tutto il mondo Apple e l'ecosistema tech in generale, di cui scrivo regolarmente nel blog.</p>
-    <p>Quando non sono dietro a una fotocamera o a uno schermo, mi piace esplorare le montagne che circondano Bolzano o ascoltare buona musica.</p>
+    <h2>Chi sono davvero</h2>
+    <p>Sono uno di quelli che smonta i dispositivi per capire come funzionano, che legge le note di rilascio degli aggiornamenti per puro piacere, che si emoziona ancora quando una nuova tecnologia cambia le regole del gioco. Un nerd, sì — ma con i piedi ben piantati a terra.</p>
+    <p>Ho passato la quarantina da qualche anno e posso dire che la curiosità, invece di diminuire, continua a crescere. Il mondo cambia velocemente e io non ho nessuna intenzione di stare a guardare.</p>
 
-    <h2>Questo sito</h2>
-    <p>Tutt0l4nd nasce come spazio personale senza pretese — un posto dove scrivere liberamente di tecnologia, condividere foto e video, e tenere traccia di quello che mi appassiona. Non c'è un format fisso: ci sono articoli lunghi e riflessioni brevi, recensioni e racconti.</p>
-    <p>Se vuoi metterti in contatto, trovi tutti i miei riferimenti nella pagina <a href="/contact">Contatti</a> o sui social nel footer.</p>
+    <h2>Cosa mi appassiona</h2>
+    <p>La tecnologia è la mia lingua madre — la parlo, la respiro, la racconto. Ma non sono uno di quelli che vive solo dietro uno schermo. Mi affascina il momento in cui il digitale incontra il reale: quando una fotografia cattura un'emozione vera, quando un video racconta una storia che rimane, quando uno strumento tech risolve un problema concreto nella vita di tutti i giorni.</p>
+    <p>La fotografia e il video sono le mie valvole di sfogo creative. Con un obiettivo in mano smetto di essere un tecnico e divento un osservatore — cerco la luce giusta, il momento giusto, l'angolo che nessuno ha ancora visto.</p>
+
+    <h2>Questo spazio</h2>
+    <p>Tutt0l4nd esiste dal 2019 come il mio angolo personale sul web. Non è un blog di settore, non è un portfolio, non è un curriculum — è un po' tutte e tre le cose insieme. Scrivo quando ho qualcosa da dire, condivido quando ho qualcosa da mostrare, rifletto quando il mondo tech mi fa venire voglia di farlo.</p>
+    <p>Se sei arrivato fin qui, probabilmente condividi qualcosa con me — la curiosità, la passione per la tecnologia, o semplicemente il piacere di leggere qualcosa scritto da una persona reale. Benvenuto.</p>
+
   </div>
 </div>
