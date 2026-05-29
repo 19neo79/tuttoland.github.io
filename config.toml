@@ -76,5 +76,7 @@ defaultcontentlanguage = "it"
   weight = 5
   url = "/privacy/"
 
-  [outputs]
+[outputs]
   home = ["HTML", "RSS", "Sitemap"]
+  section = ["HTML", "RSS", "Sitemap"]
+  page = ["HTML", "Sitemap"]
