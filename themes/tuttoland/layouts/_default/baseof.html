@@ -18,9 +18,9 @@
   <meta property="og:site_name" content="{{ .Site.Title }}">
   <meta property="og:type" content="website">
   <meta property="og:url" content="{{ .Permalink }}">
-  <meta property="og:image" content="{{ .Site.BaseURL }}images/tn.png">
+  <meta property="og:image" content="{{ if .IsPage }}{{ with .Params.thumbnail }}{{ $.Site.BaseURL }}{{ . }}{{ else }}{{ $.Site.BaseURL }}images/tn.png{{ end }}{{ else }}{{ .Site.BaseURL }}images/tn.png{{ end }}">
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:image" content="{{ .Site.BaseURL }}images/tn.png">
+  <meta name="twitter:image" content="{{ if .IsPage }}{{ with .Params.thumbnail }}{{ $.Site.BaseURL }}{{ . }}{{ else }}{{ $.Site.BaseURL }}images/tn.png{{ end }}{{ else }}{{ .Site.BaseURL }}images/tn.png{{ end }}">
 
   <title>{{ block "title" . }}{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} — {{ .Site.Title }}{{ end }}{{ end }}</title>
 

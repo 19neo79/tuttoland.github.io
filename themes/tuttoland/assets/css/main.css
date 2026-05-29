@@ -17,7 +17,7 @@
   --radius: 10px;
   --radius-sm: 6px;
   --transition: 0.2s ease;
-  --max-width: 960px;
+  --max-width: 720px;
 }
 
 [data-theme="light"] {
@@ -84,7 +84,6 @@ img { max-width: 100%; height: auto; display: block; }
   font-size: 18px;
   color: var(--text);
   letter-spacing: -0.02em;
-  white-space: nowrap;
 }
 
 .site-logo span { color: var(--accent); }
@@ -143,9 +142,13 @@ img { max-width: 100%; height: auto; display: block; }
 }
 
 .hero-avatar {
-  width: 140px;
-  height: auto;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
   margin: 0 auto 24px;
+  border: 2px solid var(--border);
+  overflow: hidden;
+  background: var(--bg-secondary);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -159,7 +162,7 @@ img { max-width: 100%; height: auto; display: block; }
 
 .hero-name {
   font-family: var(--font-display);
-  font-size: clamp(24px, 4vw, 36px);
+  font-size: clamp(28px, 5vw, 42px);
   font-weight: 800;
   letter-spacing: -0.03em;
   color: var(--text);
@@ -277,7 +280,7 @@ img { max-width: 100%; height: auto; display: block; }
 
 .post-list-item {
   display: grid;
-  grid-template-columns: 100px 1fr;
+  grid-template-columns: 80px 1fr;
   gap: 20px;
   align-items: start;
   padding: 24px 0;
@@ -687,6 +690,7 @@ img { max-width: 100%; height: auto; display: block; }
 @media (max-width: 480px) {
   .gallery-masonry { columns: 1; }
 }
+
 .avatar-light { display: none; }
 .avatar-dark { display: block; }
 

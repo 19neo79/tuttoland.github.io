@@ -7,8 +7,15 @@
   <div class="posts-list">
     {{ range .Paginator.Pages }}
     <a href="{{ .Permalink }}" class="post-list-item" style="text-decoration:none;">
+      {{ with .Params.thumbnail }}
+      <div style="width:80px;height:80px;border-radius:8px;overflow:hidden;flex-shrink:0;background:var(--bg-tertiary);">
+        <img src="{{ . }}" alt="{{ $.Title }}" style="width:100%;height:100%;object-fit:cover;">
+      </div>
+      {{ else }}
       <p class="post-list-date">{{ .Date.Format "Jan 2006" }}</p>
+      {{ end }}
       <div>
+        {{ with .Params.thumbnail }}<p class="post-list-date">{{ $.Date.Format "Jan 2006" }}</p>{{ end }}
         <h2 class="post-list-title">{{ .Title }}</h2>
         {{ with .Summary }}<p class="post-list-summary">{{ . | plainify | truncate 120 }}</p>{{ end }}
         {{ with .Params.tags }}
