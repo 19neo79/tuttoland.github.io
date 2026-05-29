@@ -6,8 +6,9 @@ layout: "page"
 ---
 <div class="about-page">
 <div class="about-intro">
-<div class="about-avatar">
-<img src="/img/photo_about.jpg" alt="Manuel Riccadonna">
+<div class="hero-avatar">
+<img src="/img/avatar_orange_glasses.png" alt="Manuel Riccadonna" class="avatar-dark">
+<img src="/img/avatar_clean.png" alt="Manuel Riccadonna" class="avatar-light">
 </div>
 <div>
 <h1 class="about-name">Manuel Riccadonna</h1>
