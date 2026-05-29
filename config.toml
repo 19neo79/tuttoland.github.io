@@ -1,6 +1,7 @@
 baseurl = "https://www.manuelriccadonna.it"
 title = "Tutt0l4nd"
 theme = "tuttoland"
+googleAnalytics = "G-F1PNT4HY6X"
 languagecode = "it"
 defaultcontentlanguage = "it"
 
