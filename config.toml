@@ -1,6 +1,6 @@
 baseurl = "https://www.manuelriccadonna.it"
 title = "Tutt0l4nd|T3ch&M0r3"
-theme = "hugo-coder-portfolio"
+theme = "hugo-coder"
 languagecode = "it"
 defaultcontentlanguage = "it"
 pygmentsstyle = "b2"
