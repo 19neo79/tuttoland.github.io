@@ -5,7 +5,7 @@ title = "La pandemia ha creato.."
 slug = ""
 tags = []
 categories = []
-thumbnail = "/img/calcoli.png"
+thumbnail = "/img/website.png"
 description = ""
 +++
 #### Preambolo
