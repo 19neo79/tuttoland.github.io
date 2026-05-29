@@ -7,11 +7,6 @@ layout: "page"
 
 <div class="contact-page">
 
-<div class="page-header" style="padding: 40px 0 32px; border-bottom: 0.5px solid var(--border); margin-bottom: 40px;">
-<h1 class="page-title">Contatti</h1>
-<p style="color: var(--text-secondary); margin-top: 12px;">Hai una domanda, una proposta o vuoi semplicemente salutare? Scrivi qui sotto.</p>
-</div>
-
 <div class="contact-grid">
 
 <div class="contact-info">
