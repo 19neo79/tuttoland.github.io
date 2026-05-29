@@ -8,5 +8,5 @@ categories = []
 thumbnail = "/img/glove.png"
 description = ""
 +++
-<DIV  style="float:right;">![your_img](/img/glove.png)</DIV>
+<DIV  style="float:right;"><img src="/img/glove.png" alt="your_img" style="max-width:100%;height:auto;"></DIV>
 Sono passate un paio di settimane dall'uscita dell'ultimo capitolo della saga degli Avengers.
