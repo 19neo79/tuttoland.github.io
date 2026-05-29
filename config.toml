@@ -75,3 +75,6 @@ defaultcontentlanguage = "it"
   name = "Privacy"
   weight = 5
   url = "/privacy/"
+
+  [outputs]
+  home = ["HTML", "RSS", "Sitemap"]
