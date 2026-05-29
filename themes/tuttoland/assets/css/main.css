@@ -503,7 +503,7 @@ img { max-width: 100%; height: auto; display: block; }
   height: 200px;
   border-radius: 50px;
   overflow: hidden;
-  border: 0.5px solid var(--border);
+  border: none;
   flex-shrink: 0;
   background: transparent;
 }
