@@ -24,7 +24,7 @@ defaultcontentlanguage = "it"
   description = "Blog personale di Manuel Riccadonna su tecnologia, fotografia e video. Da Bolzano."
   keywords = "blog,tecnologia,fotografia,video,Manuel Riccadonna,Bolzano"
   avatarurl = "img/avatar1.png"
-  footercontent = "2025 © Manuel Riccadonna"
+  footercontent = "2026 © Manuel Riccadonna"
 
 [[params.social]]
   name = "Instagram"
