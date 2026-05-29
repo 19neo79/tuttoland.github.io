@@ -492,7 +492,7 @@ img { max-width: 100%; height: auto; display: block; }
   display: grid;
   grid-template-columns: auto 1fr;
   gap: 32px;
-  align-items: center;
+  align-items: start;
   margin-bottom: 48px;
   padding-bottom: 48px;
   border-bottom: 0.5px solid var(--border);
