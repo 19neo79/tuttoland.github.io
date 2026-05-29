@@ -2,20 +2,24 @@
 <div class="wrapper">
   <article class="post-single">
     <header class="post-single-header">
+      {{ if .Date }}
+      {{ if not (eq (.Date.Format "2006") "0001") }}
       <p class="post-single-meta">{{ .Date.Format "02 Gennaio 2006" }}{{ with .Params.tags }} · {{ range . }}<span class="tag">{{ . }}</span> {{ end }}{{ end }}</p>
+      {{ end }}
+      {{ end }}
       <h1 class="post-single-title">{{ .Title }}</h1>
     </header>
-
     <div class="post-content">
       {{ .Content }}
     </div>
   </article>
-
+  {{ if eq .Section "posts" }}
   <div style="padding: 40px 0; border-top: 0.5px solid var(--border); margin-top: 40px;">
     <a href="/posts/" style="font-family: var(--font-display); font-size: 14px; font-weight: 600; color: var(--text-secondary); display: inline-flex; align-items: center; gap: 8px; transition: color 0.2s;">
       <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/></svg>
       Tutti gli articoli
     </a>
   </div>
+  {{ end }}
 </div>
 {{ end }}
