@@ -5,17 +5,45 @@
   </div>
 </div>
 
-<div style="padding: 0 24px;">
-  <div class="gallery-masonry">
-    {{ .Content }}
-    {{ range .Resources.ByType "image" }}
-    <div class="gallery-item">
-      <img src="{{ .RelPermalink }}" alt="{{ .Title }}" loading="lazy">
-      <div class="gallery-overlay">
-        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/><line x1="11" y1="8" x2="11" y2="14"/><line x1="8" y1="11" x2="14" y2="11"/></svg>
-      </div>
-    </div>
-    {{ end }}
+<div style="padding: 0 24px 80px;">
+  <div class="gallery-masonry" id="gallery-masonry">
   </div>
 </div>
+
+<script>
+const images = [
+{{ range (readDir "/static/Gallery") }}
+  {{ if not .IsDir }}
+  { src: "/Gallery/{{ .Name }}", alt: "{{ .Name | replaceRE "\\.[^.]+$" "" }}" },
+  {{ end }}
+{{ end }}
+];
+
+const masonry = document.getElementById('gallery-masonry');
+images.forEach(img => {
+  const item = document.createElement('div');
+  item.className = 'gallery-item';
+  item.innerHTML = `
+    <img src="${img.src}" alt="${img.alt}" loading="lazy">
+    <div class="gallery-overlay">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <circle cx="11" cy="11" r="8"/>
+        <line x1="21" y1="21" x2="16.65" y2="16.65"/>
+        <line x1="11" y1="8" x2="11" y2="14"/>
+        <line x1="8" y1="11" x2="14" y2="11"/>
+      </svg>
+    </div>`;
+  masonry.appendChild(item);
+
+  item.addEventListener('click', () => {
+    const lightbox = document.getElementById('lightbox');
+    const lightboxImg = document.getElementById('lightbox-img');
+    if (lightbox && lightboxImg) {
+      lightboxImg.src = img.src;
+      lightbox.classList.add('active');
+      document.body.style.overflow = 'hidden';
+    }
+  });
+});
+</script>
 {{ end }}
