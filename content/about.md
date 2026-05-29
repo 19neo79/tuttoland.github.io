@@ -7,8 +7,7 @@ layout: "page"
 <div class="about-page">
 <div class="about-intro">
 <div class="about-avatar">
-<img src="/img/photo_dark.png" alt="Manuel Riccadonna" class="avatar-dark">
-<img src="/img/photo_light.png" alt="Manuel Riccadonna" class="avatar-light">
+<img src="/img/photo_about.jpg" alt="Manuel Riccadonna">
 </div>
 <div>
 <h1 class="about-name">Manuel Riccadonna</h1>
