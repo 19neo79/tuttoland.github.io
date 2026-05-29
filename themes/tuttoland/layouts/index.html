@@ -1,0 +1,36 @@
+{{ define "main" }}
+<section class="hero">
+  <div class="wrapper">
+    {{ if .Site.Params.avatarurl }}
+    <div class="hero-avatar">
+      <img src="{{ .Site.Params.avatarurl | absURL }}" alt="{{ .Site.Params.author }}">
+    </div>
+    {{ end }}
+
+    <h1 class="hero-name">{{ .Site.Params.author }}</h1>
+    <p class="hero-info">
+      {{ range $i, $e := split .Site.Params.info "·" }}
+        {{- if $i }}<span>·</span>{{ end }}{{ trim $e " " -}}
+      {{ end }}
+    </p>
+  </div>
+</section>
+
+<section class="recent-posts">
+  <div class="wrapper">
+    <p class="section-label">Ultimi articoli</p>
+    <div class="posts-grid">
+      {{ range first 4 (where .Site.RegularPages "Section" "posts") }}
+      <a href="{{ .Permalink }}" class="post-card">
+        <p class="post-card-date">{{ .Date.Format "02 Jan 2006" }}</p>
+        <h2 class="post-card-title">{{ .Title }}</h2>
+      </a>
+      {{ end }}
+    </div>
+    <a href="/posts/" class="view-all">
+      Tutti gli articoli
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+    </a>
+  </div>
+</section>
+{{ end }}

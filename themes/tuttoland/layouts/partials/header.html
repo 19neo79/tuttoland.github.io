@@ -1,0 +1,23 @@
+<header class="site-header">
+  <div class="wrapper">
+    <a href="{{ .Site.BaseURL }}" class="site-logo">
+      {{- if .Site.Params.avatarurl -}}
+      <img src="{{ .Site.Params.avatarurl | absURL }}" alt="{{ .Site.Params.author }}" style="width:32px;height:32px;border-radius:50%;vertical-align:middle;margin-right:10px;display:inline-block;">
+      {{- end -}}
+      {{ .Site.Params.author | default .Site.Title }}
+    </a>
+
+    <nav class="site-nav" id="site-nav" aria-label="Navigazione principale">
+      {{ range .Site.Menus.main }}
+      <a href="{{ .URL }}" {{ if $.IsHome }}{{ else }}{{ if eq $.RelPermalink .URL }}class="active"{{ end }}{{ end }}>{{ .Name }}</a>
+      {{ end }}
+    </nav>
+
+    <div style="display:flex;align-items:center;gap:12px;">
+      <button class="theme-toggle" id="theme-toggle" aria-label="Cambia tema"></button>
+      <button class="menu-toggle" id="menu-toggle" aria-label="Menu">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+      </button>
+    </div>
+  </div>
+</header>

@@ -1,0 +1,12 @@
+name = "tuttoland"
+license = "MIT"
+licenselink = "https://opensource.org/licenses/MIT"
+description = "Tema personalizzato per manuelriccadonna.it"
+homepage = "https://www.manuelriccadonna.it"
+tags = ["blog", "portfolio", "dark", "minimal"]
+features = ["blog", "portfolio", "gallery", "dark-mode"]
+min_version = "0.128.0"
+
+[author]
+  name = "Manuel Riccadonna"
+  homepage = "https://www.manuelriccadonna.it"
