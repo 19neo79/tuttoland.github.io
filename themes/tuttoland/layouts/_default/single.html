@@ -13,6 +13,44 @@
     <div class="post-content">
       {{ .Content }}
     </div>
+
+    <!-- Share buttons -->
+    <div class="share-buttons">
+      <span class="share-label">Condividi</span>
+
+      <!-- Facebook -->
+      <a class="share-btn share-fb"
+         href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink }}"
+         target="_blank" rel="noopener noreferrer" aria-label="Condividi su Facebook">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+          <path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/>
+        </svg>
+        Facebook
+      </a>
+
+      <!-- LinkedIn -->
+      <a class="share-btn share-li"
+         href="https://www.linkedin.com/sharing/share-offsite/?url={{ .Permalink }}"
+         target="_blank" rel="noopener noreferrer" aria-label="Condividi su LinkedIn">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+          <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/>
+          <rect x="2" y="9" width="4" height="12"/>
+          <circle cx="4" cy="4" r="2"/>
+        </svg>
+        LinkedIn
+      </a>
+
+      <!-- X / Twitter -->
+      <a class="share-btn share-x"
+         href="https://twitter.com/intent/tweet?url={{ .Permalink }}&text={{ .Title | urlize }}"
+         target="_blank" rel="noopener noreferrer" aria-label="Condividi su X">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+          <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
+        </svg>
+        X
+      </a>
+    </div>
+
   </article>
   {{ if eq .Section "posts" }}
   <div style="padding: 40px 0; border-top: 0.5px solid var(--border); margin-top: 40px;">
@@ -23,4 +61,46 @@
   </div>
   {{ end }}
 </div>
+
+<style>
+.share-buttons {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 48px;
+  padding-top: 32px;
+  border-top: 0.5px solid var(--border);
+  flex-wrap: wrap;
+}
+
+.share-label {
+  font-family: var(--font-display);
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-right: 4px;
+}
+
+.share-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 14px;
+  border-radius: 8px;
+  font-family: var(--font-display);
+  font-size: 13px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: opacity 0.2s;
+}
+
+.share-btn:hover { opacity: 0.8; }
+
+.share-fb  { background: #1877F2; color: #fff; }
+.share-li  { background: #0A66C2; color: #fff; }
+.share-x   { background: #000;    color: #fff; }
+</style>
+
 {{ end }}
