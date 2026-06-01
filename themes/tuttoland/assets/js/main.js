@@ -63,3 +63,69 @@ if (lightbox) {
     }
   });
 }
+
+// ── GLITCH EFFECT ──
+const latin = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!@#$%<>[]{}|\\/_=+';
+const katakana = 'アイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲン';
+const glitchChars = latin + katakana;
+
+function randomGlitchChar() {
+  return glitchChars[Math.floor(Math.random() * glitchChars.length)];
+}
+
+function glitchFlash(el) {
+  if (!el) return;
+  const original = el.getAttribute('data-original') || el.textContent;
+  if (!el.getAttribute('data-original')) el.setAttribute('data-original', original);
+
+  const frames = Math.floor(Math.random() * 4) + 2;
+  const numGlitch = Math.floor(Math.random() * 5) + 2;
+  let f = 0;
+
+  const iv = setInterval(() => {
+    const positions = new Set();
+    while (positions.size < Math.min(numGlitch, original.replace(/\s/g, '').length)) {
+      positions.add(Math.floor(Math.random() * original.length));
+    }
+
+    let result = '';
+    for (let i = 0; i < original.length; i++) {
+      if (original[i] === ' ' || original[i] === '·' || original[i] === '©') {
+        result += original[i];
+      } else if (positions.has(i)) {
+        result += randomGlitchChar();
+      } else {
+        result += original[i];
+      }
+    }
+    el.textContent = result;
+    f++;
+
+    if (f >= frames) {
+      clearInterval(iv);
+      el.textContent = original;
+    }
+  }, 45);
+}
+
+function scheduleGlitch(el, minDelay, maxDelay) {
+  if (!el) return;
+  const delay = Math.random() * (maxDelay - minDelay) + minDelay;
+  setTimeout(() => {
+    glitchFlash(el);
+    scheduleGlitch(el, minDelay, maxDelay);
+  }, delay);
+}
+
+// Applica glitch agli elementi target
+const glitchTargets = [
+  { selector: '.site-logo', min: 3000, max: 8000 },
+  { selector: '.hero-name', min: 2000, max: 5000 },
+  { selector: '.hero-info', min: 2500, max: 6000 },
+  { selector: '.footer-copy', min: 4000, max: 9000 },
+];
+
+glitchTargets.forEach(({ selector, min, max }) => {
+  const el = document.querySelector(selector);
+  if (el) scheduleGlitch(el, min, max);
+});
