@@ -1,7 +1,7 @@
 ---
 title: "Tech del giorno | 1 giugno 2026 — ed.2"
 date: 2026-06-01
-draft: true
+draft: false
 tags: ["tech", "privacy", "meta", "AI", "security", "robotica"]
 description: "Meta nei guai con gli occhiali smart, i robot escono dal laboratorio, phishing ai Mondiali e GPT-5.4 già disponibile."
 thumbnail: /img/tech-del-giorno-cover.jpg
