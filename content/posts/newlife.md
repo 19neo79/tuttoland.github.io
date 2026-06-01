@@ -5,7 +5,7 @@ title = "Un nuovo layout - una nuova vita per il sito"
 slug = ""
 tags = ["sito", "web", "nuova vita", "blog", "tutt0l4nd"]
 categories = []
-thumbnail = "/img/website.png"
+thumbnail = "/img/avatar.png"
 description = "uovo tema, nuovo look e una nuova partenza per Tutt0l4nd — il mio angolo digitale dal 2019."
 +++
 
