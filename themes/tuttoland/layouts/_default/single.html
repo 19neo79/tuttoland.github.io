@@ -4,7 +4,8 @@
     <header class="post-single-header">
       {{ if .Date }}
       {{ if not (eq (.Date.Format "2006") "0001") }}
-      <p class="post-single-meta">{{ .Date.Format "02 Gennaio 2006" }}{{ with .Params.tags }} · {{ range . }}<span class="tag">{{ . }}</span> {{ end }}{{ end }}</p>
+      {{ $mesi := dict "January" "Gennaio" "February" "Febbraio" "March" "Marzo" "April" "Aprile" "May" "Maggio" "June" "Giugno" "July" "Luglio" "August" "Agosto" "September" "Settembre" "October" "Ottobre" "November" "Novembre" "December" "Dicembre" }}
+      <p class="post-single-meta">{{ .Date.Format "02" }} {{ index $mesi (.Date.Format "January") }} {{ .Date.Format "2006" }}{{ with .Params.tags }} · {{ range . }}<span class="tag">{{ . }}</span> {{ end }}{{ end }}</p>
       {{ end }}
       {{ end }}
       <h1 class="post-single-title">{{ .Title }}</h1>
