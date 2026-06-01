@@ -6,3 +6,18 @@
   HUGO_VERSION = "0.147.2"
   HUGO_ENV = "production"
   NODE_VERSION = "20"
+  
+[[redirects]]
+  from = "/?product_cat=*"
+  to = "/"
+  status = 301
+
+[[redirects]]
+  from = "/?p=*"
+  to = "/"
+  status = 301
+
+[[redirects]]
+  from = "/Gallery/"
+  to = "/gallery/"
+  status = 301
