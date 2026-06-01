@@ -24,7 +24,7 @@ layout: "page"
 <p>La tecnologia è la mia lingua madre — la parlo, la respiro, la racconto. Ma non sono uno di quelli che vive solo dietro uno schermo. Mi affascina il momento in cui il digitale incontra il reale: quando una fotografia cattura un'emozione vera, quando un video racconta una storia che rimane, quando uno strumento tech risolve un problema concreto nella vita di tutti i giorni.</p>
 <p>La fotografia e il video sono le mie valvole di sfogo creative. Con un obiettivo in mano smetto di essere un tecnico e divento un osservatore — cerco la luce giusta, il momento giusto, l'angolo che nessuno ha ancora visto.</p>
 <h2>Questo spazio</h2>
-<p>Tutt0l4nd esiste dal 2019 come il mio angolo personale sul web. Non è un blog di settore, non è un portfolio, non è un curriculum — è un po' tutte e tre le cose insieme. Scrivo quando ho qualcosa da dire, condivido quando ho qualcosa da mostrare, rifletto quando il mondo tech mi fa venire voglia di farlo.</p>
+<p>Tuttoland esiste dal 2019 come il mio angolo personale sul web. Non è un blog di settore, non è un portfolio, non è un curriculum — è un po' tutte e tre le cose insieme. Scrivo quando ho qualcosa da dire, condivido quando ho qualcosa da mostrare, rifletto quando il mondo tech mi fa venire voglia di farlo.</p>
 <p>Se sei arrivato fin qui, probabilmente condividi qualcosa con me — la curiosità, la passione per la tecnologia, o semplicemente il piacere di leggere qualcosa scritto da una persona reale. Benvenuto.</p>
 </div>
 </div>
