@@ -1,7 +1,7 @@
 ---
 title: "Nasce il Tech del Giorno: le notizie tech che contano, tre volte a settimana"
 date: 2026-06-01T08:00:00+02:00
-draft: true
+draft: false
 tags: ["annuncio", "tech", "newsletter", "tuttoland"]
 description: "Da oggi su Tuttoland arriva una nuova rubrica: ogni lunedì, mercoledì e venerdì le migliori notizie tech commentate con il mio punto di vista."
 thumbnail: /img/annuncio-tech-roundup.jpg
