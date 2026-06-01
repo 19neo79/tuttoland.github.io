@@ -1,10 +1,10 @@
 ---
 title: "Nasce il Tech del Giorno: le notizie tech che contano, tre volte a settimana"
 date: 2026-06-01
-draft: true
+draft: false
 tags: ["annuncio", "tech", "newsletter", "tutt0l4nd"]
 description: "Da oggi su Tuttoland arriva una nuova rubrica: ogni lunedì, mercoledì e venerdì le migliori notizie tech commentate con il mio punto di vista."
-thumbnail: /images/annuncio-tech-roundup.jpg
+thumbnail: /img/annuncio-tech-roundup.jpg
 ---
 
 C'è una cosa che faccio ogni mattina da anni: leggo le notizie tech. Newsletter, siti, feed RSS, articoli che mi arrivano da ogni parte. È diventata una specie di rito — caffè, telefono, e un giro veloce per capire cosa è successo nel mondo digitale mentre dormivo.
