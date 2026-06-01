@@ -1,7 +1,7 @@
 ---
 title: "Tech del giorno | 1 giugno 2026"
 date: 2026-06-01
-draft: false
+draft: true
 tags: ["tech", "apple", "AI", "security", "gadget", "gaming"]
 description: "WWDC tra 7 giorni, l'AI italiana cresce del 33%, l'Iran usa ChatGPT per attaccare, il microfono con display E-ink e la Steam Machine che torna nel salotto."
 thumbnail: /img/tech-del-giorno-cover.jpg
