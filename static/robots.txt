@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /index.xml
 
 Sitemap: https://www.manuelriccadonna.it/sitemap.xml
