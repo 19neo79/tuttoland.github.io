@@ -167,9 +167,20 @@ if (molCanvas) {
     return Math.sqrt((a.x - b.x) ** 2 + (a.y - b.y) ** 2);
   }
 
+  function getThemeColors() {
+    const isDark = document.documentElement.getAttribute('data-theme') !== 'light';
+    return {
+      nodeBase: isDark ? 'rgba(255,255,255,' : 'rgba(0,0,0,',
+      lineBase: isDark ? 'rgba(255,255,255,' : 'rgba(0,0,0,',
+      nodeBaseAlpha: isDark ? 0.06 : 0.08,
+      lineBaseAlpha: isDark ? 0.07 : 0.08,
+    };
+  }
+
   function molAnimate() {
     ctx.clearRect(0, 0, W, H);
     molT += 0.5;
+    const colors = getThemeColors();
 
     nodes.forEach(n => {
       n.x = n.bx + Math.sin(molT * n.speed + n.phase) * 4;
@@ -198,7 +209,7 @@ if (molCanvas) {
           ctx.strokeStyle = `rgba(249,115,22,${glowAlpha})`;
           ctx.lineWidth = 0.7 + glowAvg;
         } else {
-          ctx.strokeStyle = `rgba(255,255,255,${baseAlpha})`;
+          ctx.strokeStyle = `${colors.lineBase}${colors.lineBaseAlpha * proximity})`;
           ctx.lineWidth = 0.3;
         }
         ctx.stroke();
@@ -223,7 +234,7 @@ if (molCanvas) {
       } else {
         ctx.beginPath();
         ctx.arc(n.x, n.y, n.size, 0, Math.PI * 2);
-        ctx.fillStyle = `rgba(255,255,255,${0.06 + n.glow * 0.2})`;
+        ctx.fillStyle = `${colors.nodeBase}${colors.nodeBaseAlpha + n.glow * 0.2})`;
         ctx.fill();
       }
     });
