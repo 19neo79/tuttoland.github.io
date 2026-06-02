@@ -1,13 +1,13 @@
 {{ define "main" }}
 <section class="hero">
-  <div class="wrapper">
+  <canvas id="mol-canvas" style="position:absolute;top:0;left:0;width:100%;height:100%;pointer-events:none;z-index:0;"></canvas>
+  <div class="wrapper" style="position:relative;z-index:1;">
     {{ if .Site.Params.avatarurl }}
     <div class="hero-avatar">
       <img src="/img/avatar_orange_glasses.png" alt="{{ .Site.Params.author }}" class="avatar-dark">
       <img src="/img/avatar_clean.png" alt="{{ .Site.Params.author }}" class="avatar-light">
     </div>
     {{ end }}
-
     <h1 class="hero-name">{{ .Site.Params.author }}</h1>
     <p class="hero-info">
       {{ range $i, $e := split .Site.Params.info "·" }}
