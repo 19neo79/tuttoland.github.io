@@ -117,7 +117,6 @@ function scheduleGlitch(el, minDelay, maxDelay) {
   }, delay);
 }
 
-// Applica glitch agli elementi target
 const glitchTargets = [
   { selector: '.site-logo', min: 3000, max: 8000 },
   { selector: '.hero-name', min: 2000, max: 5000 },
@@ -129,3 +128,126 @@ glitchTargets.forEach(({ selector, min, max }) => {
   const el = document.querySelector(selector);
   if (el) scheduleGlitch(el, min, max);
 });
+
+// ── MOLECULAR CANVAS ──
+const molCanvas = document.getElementById('mol-canvas');
+if (molCanvas) {
+  const ctx = molCanvas.getContext('2d');
+  let W = molCanvas.width = molCanvas.offsetWidth;
+  let H = molCanvas.height = molCanvas.offsetHeight;
+
+  const mouse = { x: W / 2, y: H / 2 };
+  const INFLUENCE = 130;
+  const NODE_SPACING = 65;
+  const CONNECT_DIST = 95;
+  let nodes = [];
+  let molT = 0;
+
+  function buildNodes() {
+    nodes = [];
+    const cols = Math.ceil(W / NODE_SPACING) + 2;
+    const rows = Math.ceil(H / NODE_SPACING) + 2;
+    for (let r = -1; r <= rows; r++) {
+      for (let c = -1; c <= cols; c++) {
+        const offset = r % 2 === 0 ? 0 : NODE_SPACING * 0.5;
+        nodes.push({
+          bx: c * NODE_SPACING + offset,
+          by: r * NODE_SPACING * 0.866,
+          x: 0, y: 0,
+          glow: 0,
+          size: Math.random() * 1.5 + 0.8,
+          phase: Math.random() * Math.PI * 2,
+          speed: Math.random() * 0.003 + 0.001,
+        });
+      }
+    }
+  }
+
+  function molDist(a, b) {
+    return Math.sqrt((a.x - b.x) ** 2 + (a.y - b.y) ** 2);
+  }
+
+  function molAnimate() {
+    ctx.clearRect(0, 0, W, H);
+    molT += 0.5;
+
+    nodes.forEach(n => {
+      n.x = n.bx + Math.sin(molT * n.speed + n.phase) * 4;
+      n.y = n.by + Math.cos(molT * n.speed * 0.7 + n.phase) * 4;
+      const d = Math.sqrt((mouse.x - n.x) ** 2 + (mouse.y - n.y) ** 2);
+      const target = d < INFLUENCE ? (1 - d / INFLUENCE) : 0;
+      n.glow += (target - n.glow) * 0.12;
+      n.glow = Math.max(0, Math.min(1, n.glow));
+    });
+
+    // Connections
+    for (let i = 0; i < nodes.length; i++) {
+      for (let j = i + 1; j < nodes.length; j++) {
+        const a = nodes[i], b = nodes[j];
+        const d = molDist(a, b);
+        if (d > CONNECT_DIST) continue;
+        const proximity = 1 - d / CONNECT_DIST;
+        const glowAvg = (a.glow + b.glow) / 2;
+        const glowAlpha = glowAvg * proximity * 0.7;
+        const baseAlpha = proximity * 0.07;
+
+        ctx.beginPath();
+        ctx.moveTo(a.x, a.y);
+        ctx.lineTo(b.x, b.y);
+        if (glowAlpha > 0.01) {
+          ctx.strokeStyle = `rgba(249,115,22,${glowAlpha})`;
+          ctx.lineWidth = 0.7 + glowAvg;
+        } else {
+          ctx.strokeStyle = `rgba(255,255,255,${baseAlpha})`;
+          ctx.lineWidth = 0.3;
+        }
+        ctx.stroke();
+      }
+    }
+
+    // Nodes
+    nodes.forEach(n => {
+      if (n.glow > 0.05) {
+        const grad = ctx.createRadialGradient(n.x, n.y, 0, n.x, n.y, n.size * 5);
+        grad.addColorStop(0, `rgba(249,115,22,${n.glow * 0.35})`);
+        grad.addColorStop(1, 'rgba(249,115,22,0)');
+        ctx.beginPath();
+        ctx.arc(n.x, n.y, n.size * 5, 0, Math.PI * 2);
+        ctx.fillStyle = grad;
+        ctx.fill();
+
+        ctx.beginPath();
+        ctx.arc(n.x, n.y, n.size + n.glow * 2.5, 0, Math.PI * 2);
+        ctx.fillStyle = `rgba(249,115,22,${0.2 + n.glow * 0.8})`;
+        ctx.fill();
+      } else {
+        ctx.beginPath();
+        ctx.arc(n.x, n.y, n.size, 0, Math.PI * 2);
+        ctx.fillStyle = `rgba(255,255,255,${0.06 + n.glow * 0.2})`;
+        ctx.fill();
+      }
+    });
+
+    requestAnimationFrame(molAnimate);
+  }
+
+  molCanvas.addEventListener('mousemove', e => {
+    const r = molCanvas.getBoundingClientRect();
+    mouse.x = e.clientX - r.left;
+    mouse.y = e.clientY - r.top;
+  });
+
+  molCanvas.addEventListener('mouseleave', () => {
+    mouse.x = W / 2;
+    mouse.y = H / 2;
+  });
+
+  window.addEventListener('resize', () => {
+    W = molCanvas.width = molCanvas.offsetWidth;
+    H = molCanvas.height = molCanvas.offsetHeight;
+    buildNodes();
+  });
+
+  buildNodes();
+  molAnimate();
+}
