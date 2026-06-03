@@ -15,7 +15,7 @@ tags: ["Apple", "MacBook Neo", "Siri", "Gemini", "Google", "Cybersecurity", "Sam
 
 Nel solo primo trimestre del 2026, Apple ha spedito 1,1 milioni di unità di MacBook Neo — il numero più alto mai registrato per un Mac al debutto sul mercato. Un risultato che consolida il dominio di Apple Silicon nel segmento notebook premium e lancia un segnale preciso alla concorrenza Windows, proprio nel momento in cui NVIDIA prova a colmare il divario con RTX Spark.
 
-*Fonte: [Macitynet](https://www.macitynet.it) — 3 giu 2026*
+*Fonte: [Macitynet](https://www.macitynet.it/vendite-macbook-neo/) — 3 giu 2026*
 
 *A questo punto mi chiedo: quanti di quei milioni sono persone che stavano aspettando solo il momento giusto per passare da Windows? Perché non mi sembra solo fedeltà al brand — sembra che la gente abbia finalmente trovato una macchina che vale davvero il prezzo che chiede.*
 
@@ -25,7 +25,7 @@ Nel solo primo trimestre del 2026, Apple ha spedito 1,1 milioni di unità di Mac
 
 Apple pagherà 1 miliardo di dollari all'anno a Google per integrare Gemini — un LLM personalizzato da 1.200 miliardi di parametri — come motore della nuova Siri. L'annuncio ufficiale è atteso al WWDC dell'8 giugno, ma i dettagli dell'accordo sono già emersi: due anni di promesse mancate sulla nuova Siri si chiudono con una partnership con il rivale storico.
 
-*Fonte: [PhoneArena](https://www.phonearena.com) / [Newsweek](https://www.newsweek.com) — 2-3 giu 2026*
+*Fonte: [Melablog](https://www.melablog.it/apple-prepara-la-nuova-siri-accordo-con-google-modelli-gemini-e-chip-nvidia-dietro-apple-intelligence/) — 2-3 giu 2026*
 
 *Uso Siri praticamente zero. Se dopo questo aggiornamento riuscirà a fare quello che promette da anni, sarà la prima volta che la uso davvero. Ma ho già sentito questa storia — la aspetto al WWDC prima di esultare.*
 
@@ -35,7 +35,7 @@ Apple pagherà 1 miliardo di dollari all'anno a Google per integrare Gemini — 
 
 Oggi e domani alla LUISS di Roma si tiene il Forum Cyber 4.0, uno degli appuntamenti più importanti per la cybersecurity italiana. Presenti la vice direttore ACN Nunzia Ciardi, il direttore generale del DIS Vittorio Rizzi, rappresentanti del MAECI e il ministro Urso in videomessaggio. Sul tavolo: la strategia nazionale per la sicurezza digitale, il ruolo crescente dell'AI nella difesa cyber e lo sviluppo dell'ecosistema digitale italiano in chiave competitiva.
 
-*Fonte: [ANSA / Teleborsa](https://teleborsa.ansa.it) — 3 giu 2026*
+*Fonte: [Cyber 4.0](https://www.cyber40.it/forum-cyber-4-0-2026/) — 3 giu 2026*
 
 *Chi lavora in aziende con infrastrutture critiche sa che tra quello che si decide in questi forum e quello che arriva sul campo passano mesi, a volte anni. Il tema è giusto, le persone anche — ora servono tempi e strumenti concreti, non solo convegni.*
 
@@ -55,6 +55,6 @@ Samsung ha aggiunto alla libreria d'arte del The Frame 4 una selezione delle ope
 
 Microsoft ha pubblicato le nuove immagini ISO ufficiali per le ultime versioni preview di Windows 11, permettendo installazioni pulite senza dover passare per aggiornamenti incrementali. Una mossa apprezzata da chi tiene i propri sistemi costantemente aggiornati al bleeding edge, testando funzioni in anteprima mesi prima del rilascio ufficiale di settembre.
 
-*Fonte: [HDblog](https://www.hdblog.it) — 3 giu 2026*
+*Fonte: [Neowin](https://www.neowin.net/news/microsoft-releases-new-iso-files-for-the-latest-windows-11-preview-builds/) — 1 giu 2026*
 
 *In ambiente aziendale questa notizia vale zero — nessuno installa preview su macchine di produzione e chi lo fa se ne pente. Ma a casa, su una macchina di test? Scaricata. Già. Sono fatto così.*
