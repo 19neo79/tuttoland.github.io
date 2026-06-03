@@ -1,5 +1,5 @@
 ---
-title: "Tech del giorno | 1 giugno 2026"
+title: "Tech del giorno - 1 giugno 2026"
 date: 2026-06-01T10:00:00+02:00
 draft: false
 tags: ["tech", "apple", "AI", "security", "gadget", "gaming"]
