@@ -196,7 +196,6 @@ img { max-width: 100%; height: auto; display: block; }
 /* ── POSTS RECENTI HOMEPAGE ── */
 .recent-posts {
   padding: 40px 0 80px;
-  border-top: 0.5px solid var(--border);
 }
 
 .section-label {
