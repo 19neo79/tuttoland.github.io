@@ -247,12 +247,6 @@ if (molCanvas) {
     mouse.x = e.clientX - r.left;
     mouse.y = e.clientY - r.top;
   });
-  });
-
-  molCanvas.addEventListener('mouseleave', () => {
-    mouse.x = W / 2;
-    mouse.y = H / 2;
-  });
 
   window.addEventListener('resize', () => {
     W = molCanvas.width = molCanvas.offsetWidth;
