@@ -17,7 +17,7 @@ Nel solo primo trimestre del 2026, Apple ha spedito 1,1 milioni di unità di Mac
 
 *Fonte: [Macitynet](https://www.macitynet.it/vendite-macbook-neo/) — 3 giu 2026*
 
-*A questo punto mi chiedo: quanti di quei milioni sono persone che stavano aspettando solo il momento giusto per passare da Windows? Perché non mi sembra solo fedeltà al brand — sembra che la gente abbia finalmente trovato una macchina che vale davvero il prezzo che chiede.*
+*A questo punto mi chiedo: quanti di quei milioni sono persone che stavano aspettando solo il momento giusto per passare a Mac? Perché non mi sembra solo fedeltà al brand — sembra che la gente abbia finalmente trovato una macchina che vale davvero il prezzo che chiede.*
 
 ---
 
@@ -27,7 +27,7 @@ Apple pagherà 1 miliardo di dollari all'anno a Google per integrare Gemini — 
 
 *Fonte: [Melablog](https://www.melablog.it/apple-prepara-la-nuova-siri-accordo-con-google-modelli-gemini-e-chip-nvidia-dietro-apple-intelligence/) — 2-3 giu 2026*
 
-*Uso Siri praticamente zero. Se dopo questo aggiornamento riuscirà a fare quello che promette da anni, sarà la prima volta che la uso davvero. Ma ho già sentito questa storia — la aspetto al WWDC prima di esultare.*
+*Uso Siri praticamente mai. Se dopo questo aggiornamento riuscirà a fare quello che promette da anni, sarà la prima volta che la uso davvero. Ma ho già sentito questa storia — la aspetto al WWDC prima di esultare.*
 
 ---
 
@@ -45,7 +45,7 @@ Oggi e domani alla LUISS di Roma si tiene il Forum Cyber 4.0, uno degli appuntam
 
 Samsung ha aggiunto alla libreria d'arte del The Frame 4 una selezione delle opere più iconiche di Edvard Munch — tra cui L'Urlo e Il Sole. Il TV che si trasforma in quadro continua ad espandere il suo catalogo artistico puntando su nomi riconoscibili per giustificare il premium di prezzo rispetto a un televisore standard.
 
-*Fonte: [HDblog](https://www.hdblog.it) — 3 giu 2026*
+*Fonte: [HDblog](https://www.hdblog.it/tv/articoli/n660153/samsung-opere-di-much-sui-tv-the-frame/) — 3 giu 2026*
 
 *Il The Frame è uno di quei prodotti che o ami o non capisci. Io sono nel secondo gruppo — ma devo ammettere che L'Urlo in salotto ha una sua logica: dopo una giornata di lavoro, quella faccia la riconosci benissimo.*
 
@@ -57,4 +57,4 @@ Microsoft ha pubblicato le nuove immagini ISO ufficiali per le ultime versioni p
 
 *Fonte: [Neowin](https://www.neowin.net/news/microsoft-releases-new-iso-files-for-the-latest-windows-11-preview-builds/) — 1 giu 2026*
 
-*In ambiente aziendale questa notizia vale zero — nessuno installa preview su macchine di produzione e chi lo fa se ne pente. Ma a casa, su una macchina di test? Scaricata. Già. Sono fatto così.*
+*In ambiente aziendale questa notizia vale poco — nessuno installa preview su macchine di produzione e chi lo fa se ne pente. Ma a casa, su una macchina di test? Scaricata. Già. Sono fatto così.*
