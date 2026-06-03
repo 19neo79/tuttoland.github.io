@@ -170,10 +170,11 @@ if (molCanvas) {
   function getThemeColors() {
     const isDark = document.documentElement.getAttribute('data-theme') !== 'light';
     return {
-      nodeBase: isDark ? 'rgba(255,255,255,' : 'rgba(0,0,0,',
+      nodeBase: isDark ? 'rgba(255,255,255,' : 'rgba(249,115,22,',
       lineBase: isDark ? 'rgba(255,255,255,' : 'rgba(0,0,0,',
-      nodeBaseAlpha: isDark ? 0.06 : 0.08,
+      nodeBaseAlpha: isDark ? 0.06 : 0.5,
       lineBaseAlpha: isDark ? 0.07 : 0.08,
+      glowColor: isDark ? '249,115,22' : '249,115,22',
     };
   }
 
