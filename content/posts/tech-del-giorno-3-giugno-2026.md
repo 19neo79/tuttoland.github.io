@@ -2,7 +2,7 @@
 title: "Tech del giorno – 3 giugno 2026"
 date: 2026-06-03T09:00:00+02:00
 thumbnail: /img/tech-del-giorno-cover.jpg
-draft: false
+draft: true
 categories: ["Tech", "Newsletter"]
 tags: ["Apple", "MacBook Neo", "Siri", "Gemini", "Google", "Cybersecurity", "Samsung", "The Frame", "Windows 11"]
 ---
