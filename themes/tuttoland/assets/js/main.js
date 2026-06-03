@@ -242,10 +242,11 @@ if (molCanvas) {
     requestAnimationFrame(molAnimate);
   }
 
-  molCanvas.addEventListener('mousemove', e => {
+  window.addEventListener('mousemove', e => {
     const r = molCanvas.getBoundingClientRect();
     mouse.x = e.clientX - r.left;
     mouse.y = e.clientY - r.top;
+  });
   });
 
   molCanvas.addEventListener('mouseleave', () => {
