@@ -1,37 +1,40 @@
 {{ define "main" }}
-<section class="hero">
+<div class="home-wrap" style="position:relative;">
   <canvas id="mol-canvas" style="position:absolute;top:0;left:0;width:100%;height:100%;pointer-events:none;z-index:0;"></canvas>
-  <div class="wrapper" style="position:relative;z-index:1;">
-    {{ if .Site.Params.avatarurl }}
-    <div class="hero-avatar">
-      <img src="/img/avatar_orange_glasses.png" alt="{{ .Site.Params.author }}" class="avatar-dark">
-      <img src="/img/avatar_clean.png" alt="{{ .Site.Params.author }}" class="avatar-light">
-    </div>
-    {{ end }}
-    <h1 class="hero-name">{{ .Site.Params.author }}</h1>
-    <p class="hero-info">
-      {{ range $i, $e := split .Site.Params.info "·" }}
-        {{- if $i }}<span>·</span>{{ end }}{{ trim $e " " -}}
-      {{ end }}
-    </p>
-  </div>
-</section>
 
-<section class="recent-posts">
-  <div class="wrapper">
-    <p class="section-label">Ultimi articoli</p>
-    <div class="posts-grid">
-      {{ range first 4 (where .Site.RegularPages "Section" "posts") }}
-      <a href="{{ .Permalink }}" class="post-card">
-        <p class="post-card-date">{{ .Date.Format "02 Jan 2006" }}</p>
-        <h2 class="post-card-title">{{ .Title }}</h2>
-      </a>
+  <section class="hero" style="position:relative;z-index:1;">
+    <div class="wrapper">
+      {{ if .Site.Params.avatarurl }}
+      <div class="hero-avatar">
+        <img src="/img/avatar_orange_glasses.png" alt="{{ .Site.Params.author }}" class="avatar-dark">
+        <img src="/img/avatar_clean.png" alt="{{ .Site.Params.author }}" class="avatar-light">
+      </div>
       {{ end }}
+      <h1 class="hero-name">{{ .Site.Params.author }}</h1>
+      <p class="hero-info">
+        {{ range $i, $e := split .Site.Params.info "·" }}
+          {{- if $i }}<span>·</span>{{ end }}{{ trim $e " " -}}
+        {{ end }}
+      </p>
     </div>
-    <a href="/posts/" class="view-all">
-      Tutti gli articoli
-      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
-    </a>
-  </div>
-</section>
+  </section>
+
+  <section class="recent-posts" style="position:relative;z-index:1;">
+    <div class="wrapper">
+      <p class="section-label">Ultimi articoli</p>
+      <div class="posts-grid">
+        {{ range first 4 (where .Site.RegularPages "Section" "posts") }}
+        <a href="{{ .Permalink }}" class="post-card">
+          <p class="post-card-date">{{ .Date.Format "02 Jan 2006" }}</p>
+          <h2 class="post-card-title">{{ .Title }}</h2>
+        </a>
+        {{ end }}
+      </div>
+      <a href="/posts/" class="view-all">
+        Tutti gli articoli
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+      </a>
+    </div>
+  </section>
+</div>
 {{ end }}

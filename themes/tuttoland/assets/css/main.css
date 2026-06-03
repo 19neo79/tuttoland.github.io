@@ -139,8 +139,6 @@ img { max-width: 100%; height: auto; display: block; }
 .hero {
   padding: 80px 0 60px;
   text-align: center;
-  position: relative;
-  overflow: hidden;
 }
 
 .hero-avatar {
@@ -193,10 +191,7 @@ img { max-width: 100%; height: auto; display: block; }
   z-index: 0;
 }
 
-.hero .wrapper {
-  position: relative;
-  z-index: 1;
-}
+
 
 /* ── POSTS RECENTI HOMEPAGE ── */
 .recent-posts {
