@@ -1,7 +1,7 @@
 ---
 title: "Tech del giorno - 1 giugno 2026"
 date: 2026-06-01T10:00:00+02:00
-draft: false
+draft: true
 tags: ["tech", "apple", "AI", "security", "gadget", "gaming"]
 description: "WWDC tra 7 giorni, le aziende italiane sull'AI crescono del 33%, allarme ransomware Qilin sulle PMI, il microfono con display E-ink e la Steam Machine che si avvicina."
 thumbnail: /img/tech-del-giorno-cover.jpg
