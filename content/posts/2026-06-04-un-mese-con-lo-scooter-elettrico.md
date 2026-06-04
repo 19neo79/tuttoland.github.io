@@ -1,7 +1,7 @@
 ---
 title: "Un mese con lo scooter elettrico: 204 km, €0 di carburante e qualche sorpresa"
 date: 2026-06-04T09:00:00+02:00
-draft: true
+draft: false
 thumbnail: /img/volt.jpg
 tags: ["mobilità elettrica", "scooter elettrico", "Energy F33+", "risparmio", "Bolzano", "sostenibilità"]
 categories: ["Tech & Vita"]
