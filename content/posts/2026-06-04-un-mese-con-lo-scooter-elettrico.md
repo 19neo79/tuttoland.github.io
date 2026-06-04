@@ -7,7 +7,7 @@ tags: ["mobilità elettrica", "scooter elettrico", "Energy F33+", "risparmio", "
 categories: ["Tech & Vita"]
 ---
 
-*Un mese fa ho preso in consegna il mio Energy F33+ — nome in codice BlackJack — e da quel momento ho tracciato ogni singolo viaggio con la mia app VOLT Ride. Oggi i dati parlano, e c'è qualcosa che non mi aspettavo.*
+*Un mese fa ho preso in consegna il mio Dynamicom F33+ — nome in codice BlackJack — e da quel momento ho tracciato ogni singolo viaggio con la mia app VOLT Ride. Oggi i dati parlano, e c'è qualcosa che non mi aspettavo.*
 
 ---
 
@@ -15,7 +15,7 @@ categories: ["Tech & Vita"]
 
 Vivo e lavoro a Bolzano. I miei spostamenti quotidiani sono brevi, urbani, ripetitivi: casa–ufficio, ufficio–palestra, piccoli giri in città. Il classico caso d'uso per cui uno scooter elettrico è stato pensato.
 
-Ho scelto l'**Dynmicom F33+** perché ha una batteria da **4.320 Wh** — grande per la categoria — e perché mi pareva uno step logico dopo anni di interesse per la mobilità sostenibile e per tutto ciò che si può misurare, tracciare, ottimizzare.
+Ho scelto il **Dynmicom F33+** perché ha una batteria da **4.320 Wh** — grande per la categoria — e perché mi pareva uno step logico dopo anni di interesse per la mobilità sostenibile e per tutto ciò che si può misurare, tracciare, ottimizzare.
 
 Ho costruito da zero un'app (VOLT Ride) per registrare ogni viaggio: km percorsi, percentuale di batteria usata, kWh consumati e Wh/km. Dopo un mese, ho i dati. Vediamo cosa dicono.
 
