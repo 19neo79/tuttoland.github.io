@@ -2,7 +2,7 @@
 title: "Un mese con lo scooter elettrico: 204 km, zero emissioni e qualche sorpresa"
 date: 2026-06-04T09:00:00+02:00
 draft: false
-thumbnail: /img/tech-del-giorno-cover.jpg
+thumbnail: /img/volt.jpg
 tags: ["mobilità elettrica", "scooter elettrico", "Energy F33+", "sostenibilità", "Bolzano", "CO2"]
 categories: ["Tech & Vita"]
 ---
@@ -15,7 +15,7 @@ categories: ["Tech & Vita"]
 
 Vivo e lavoro a Bolzano. I miei spostamenti quotidiani sono brevi, urbani, ripetitivi: casa–ufficio, ufficio–palestra, piccoli giri in città. Il classico caso d'uso per cui uno scooter elettrico è stato pensato.
 
-Ho scelto l'**Dinamicom F33+** perché ha una batteria da **4.320 Wh** — grande per la categoria — e perché mi pareva uno step logico dopo anni di interesse per la mobilità sostenibile e per tutto ciò che si può misurare, tracciare, ottimizzare. 
+Ho scelto il **Dinamicom F33+** perché ha una batteria da **4.320 Wh** — grande per la categoria — e perché mi pareva uno step logico dopo anni di interesse per la mobilità sostenibile e per tutto ciò che si può misurare, tracciare, ottimizzare. 
 
 ![Il mio Dinamicom F33+ — BlackJack](/img/blackjack.jpg)
 
