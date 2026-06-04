@@ -1,8 +1,8 @@
 ---
 title: "Un mese con lo scooter elettrico: 204 km, €0 di carburante e qualche sorpresa"
 date: 2026-06-04T09:00:00+02:00
-draft: false
-thumbnail: /img/volt.jpg
+draft: true
+thumbnail: /img/tech-del-giorno-cover.jpg
 tags: ["mobilità elettrica", "scooter elettrico", "Energy F33+", "risparmio", "Bolzano", "sostenibilità"]
 categories: ["Tech & Vita"]
 ---
@@ -23,58 +23,42 @@ Ho costruito da zero un'app (VOLT Ride) per registrare ogni viaggio: km percorsi
 
 ## I numeri del primo mese
 
-Dal **7 maggio al 4 giugno 2026**, 37 viaggi registrati.
+Dal **7 maggio al 4 giugno 2026**, 37 viaggi registrati per un totale di **204,5 km** e **10,03 kWh** consumati. La media di consumo si è attestata su **50,3 Wh/km**, con un record di efficienza di **18,3 Wh/km** (12 maggio, subito dopo la prima ricarica — batteria piena, percorso pianeggiante) e un picco di 77,1 Wh/km in un tragitto breve e nervoso. La media di 5,5 km a viaggio rispecchia perfettamente l'uso urbano quotidiano. Con la batteria da 4.320 Wh, l'autonomia reale stimata è di circa **86 km per ciclo di ricarica**.
 
-| Dato | Valore |
-|---|---|
-| Km totali percorsi | **204,5 km** |
-| Viaggi registrati | **37** |
-| kWh totali consumati | **10,03 kWh** |
-| Media di consumo | **50,3 Wh/km** |
-| Consumo migliore (singolo viaggio) | **18,3 Wh/km** |
-| Consumo peggiore (singolo viaggio) | **77,1 Wh/km** |
-| Media km per viaggio | **5,5 km** |
-| Viaggio più lungo | **9,0 km** |
-| Autonomia stimata (batteria piena) | **~86 km** |
+La variabilità del consumo è la cosa più interessante: quasi 60 Wh/km di differenza tra il viaggio migliore e il peggiore. Il dato conferma che lo stile di guida conta molto più del percorso.
 
-La variabilità del consumo è interessante: quasi 60 Wh/km di differenza tra il viaggio migliore e il peggiore. Il record di efficienza di **18,3 Wh/km** è arrivato il 12 maggio, subito dopo la prima ricarica — batteria piena, percorso pianeggiante, nessun passeggero. Il peggiore (77,1) è stato un tragitto breve e nervoso dell'11 maggio.
+---
 
-La media di **50,3 Wh/km** si conferma costante. Con la batteria da 4.320 Wh, questo si traduce in un'autonomia reale di circa **86 km** per ciclo di ricarica — che per un uso urbano a Bolzano è più che sufficiente.
+## La dashboard interattiva
+
+Tutti i dati sono esplorabili qui sotto — grafici per efficienza, km giornalieri e confronto con un 125cc benzina equivalente.
+
+<iframe
+  src="/volt-primo-mese/"
+  width="100%"
+  height="820"
+  style="border:none; border-radius:10px; margin: 8px 0 24px;"
+  loading="lazy"
+  title="VOLT Ride — Statistiche primo mese">
+</iframe>
 
 ---
 
 ## Costo zero: quanto vale davvero?
 
-Ricarico in ufficio, gratuitamente. Questo significa che il costo energetico del mese è stato esattamente **€ 0,00**.
+Ricarico in ufficio, gratuitamente. Il costo energetico del mese è stato esattamente **€ 0,00**. Per il confronto ho usato dati reali: consumo medio di un 125cc in uso urbano di **3,0 L/100km** e prezzo benzina a Bolzano di **€ 1,945/litro** — tra i più alti d'Italia.
 
-Ma quanto avrei speso con uno scooter termico equivalente — un 125cc a benzina?
-
-Ho usato dati reali:
-- Consumo medio di un 125cc in uso urbano: **3,0 L/100km** (fonte: benchmark reali 2022–2025)
-- Prezzo benzina a Bolzano a maggio 2026: **€ 1,945/litro** (tra i più alti d'Italia, fonte ANSA)
-
-| Parametro | ⚡ Energy F33+ | ⛽ 125cc benzina |
-|---|---|---|
-| Km percorsi | 204,5 km | 204,5 km |
-| Costo carburante/energia | **€ 0,00** | **€ 11,93** |
-| Costo per km | € 0,000 | € 0,058 |
-| Costo per 100km | € 0,00 | € 5,84 |
-| Litri/kWh consumati | 10,03 kWh | 6,1 litri |
-| Emissioni CO₂ | 0 kg | ~14,2 kg |
-
-In un mese ho risparmiato **€ 11,93** rispetto a un equivalente termico. Proiettato su base annua (con volumi simili): circa **€ 143 all'anno solo di carburante**, senza considerare i costi di manutenzione più bassi del mezzo elettrico.
-
-Ho anche evitato di bruciare **6,1 litri di benzina** e di emettere **14,2 kg di CO₂**.
+Sugli stessi 204,5 km un 125cc termico avrebbe consumato **6,1 litri** di benzina per una spesa di **€ 11,93**. Proiettato su base annua: circa **€ 143 all'anno solo di carburante**, senza considerare la manutenzione più bassa del mezzo elettrico. Ho anche evitato di emettere **14,2 kg di CO₂**.
 
 ---
 
 ## Cosa non ho ancora capito del tutto
 
-L'autonomia reale dipende molto dallo stile di guida. I miei viaggi sono quasi tutti sotto i 10 km, quindi non ho ancora testato cosa succede quando si avvicina il fondo della batteria. Il dato di 86 km stimato è calcolato sulla media, ma con un piede pesante in accelerazione si scende parecchio.
+L'autonomia reale dipende molto dallo stile di guida. I miei viaggi sono quasi tutti sotto i 10 km, quindi non ho ancora testato cosa succede avvicinandosi al fondo della batteria. Il dato di 86 km è calcolato sulla media — con un piede pesante in accelerazione si scende parecchio.
 
-Il consumo durante i tragitti con Gianluca (mio figlio, a bordo con me) è sistematicamente più alto — il peso in più si sente. Niente di sorprendente, ma è bello vedere il dato confermato dai numeri.
+Il consumo durante i tragitti con Gianluca a bordo è sistematicamente più alto. Niente di sorprendente, ma è bello vedere il dato confermato dai numeri.
 
-La giornata record è stata il **29 maggio: 37 km in un'unica giornata**, quattro viaggi diversi, con un consumo medio di 42,6 Wh/km. Ottima efficienza nonostante i km.
+La giornata record è stata il **29 maggio: 37 km in quattro viaggi**, con un consumo medio di 42,6 Wh/km. Ottima efficienza nonostante il volume.
 
 ---
 
@@ -85,11 +69,3 @@ Non è il risparmio economico — quello me l'aspettavo. La vera sorpresa è qua
 L'app VOLT Ride che ho costruito con Supabase, Netlify e Capacitor è diventata parte del rituale quotidiano. Non è solo uno strumento di tracciamento: è il motivo per cui ogni viaggio ha un senso in più.
 
 Dopo un mese posso dire che la mobilità elettrica in città non è solo conveniente. È **più consapevole**.
-
----
-
----
-
-⚡ [**Apri la dashboard interattiva completa →**](/volt-primo-mese/)
-
-*Tutti i dati sono reali, registrati viaggio per viaggio tramite VOLT Ride. La dashboard include grafici interattivi su consumi, efficienza, km e confronto elettrico vs termico.*
