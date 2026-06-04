@@ -90,10 +90,6 @@ Dopo un mese posso dire che la mobilità elettrica in città non è solo conveni
 
 ---
 
-{{< rawhtml >}}
-<a href="/volt-primo-mese/" style="display:inline-flex;align-items:center;gap:10px;background:#c8e000;color:#000;font-weight:700;padding:12px 24px;border-radius:8px;text-decoration:none;font-size:14px;margin:8px 0;">
-  ⚡ Apri la dashboard interattiva completa →
-</a>
-{{< /rawhtml >}}
+⚡ [**Apri la dashboard interattiva completa →**](/volt-primo-mese/)
 
 *Tutti i dati sono reali, registrati viaggio per viaggio tramite VOLT Ride. La dashboard include grafici interattivi su consumi, efficienza, km e confronto elettrico vs termico.*
