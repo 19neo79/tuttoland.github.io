@@ -1,7 +1,7 @@
 ---
 title: "Un mese con lo scooter elettrico: 204 km, zero emissioni e qualche sorpresa"
 date: 2026-06-04T09:00:00+02:00
-draft: true
+draft: false
 thumbnail: /img/tech-del-giorno-cover.jpg
 tags: ["mobilità elettrica", "scooter elettrico", "Energy F33+", "sostenibilità", "Bolzano", "CO2"]
 categories: ["Tech & Vita"]
