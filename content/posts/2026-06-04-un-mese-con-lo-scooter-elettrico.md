@@ -17,6 +17,8 @@ Vivo e lavoro a Bolzano. I miei spostamenti quotidiani sono brevi, urbani, ripet
 
 Ho scelto il **Dynmicom F33+** perché ha una batteria da **4.320 Wh** — grande per la categoria — e perché mi pareva uno step logico dopo anni di interesse per la mobilità sostenibile e per tutto ciò che si può misurare, tracciare, ottimizzare.
 
+![Il mio Energy F33+ — BlackJack](/img/blackjack.jpg)
+
 Ho costruito da zero un'app (VOLT Ride) per registrare ogni viaggio: km percorsi, percentuale di batteria usata, kWh consumati e Wh/km. Dopo un mese, ho i dati. Vediamo cosa dicono.
 
 ---
