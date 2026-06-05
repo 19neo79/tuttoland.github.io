@@ -12,6 +12,9 @@ tags: ["fotografia", "fujifilm", "slow photography", "analogico", "ttartisan"]
 
 Nello zaino ce l'ho sempre. Pesa poco, non dà nell'occhio, non ha niente di moderno da mostrare. È una **Fujifilm X-E1**, uscita nel 2012, sensore APS-C, corpo in metallo che sa ancora di cosa. Sopra ci vive un **TTArtisan 25mm** tutto manuale — niente autofocus, niente stabilizzazione, niente di niente. Solo vetro, metallo e una ghiera da girare con le dita.
 
+![Fujifilm X-E1](https://images.squarespace-cdn.com/content/576b017229687f1fd26b9117/1467055214569-EXWLX5CR96OHC4792RHT/Fujifilm-X-E1-1.jpg?content-type=image%2Fjpeg)
+
+
 Per un po' l'avevo lasciata ferma. Non avevo tempo di rallentare, o almeno così mi dicevo. Lavoro, app, script, articoli, notifiche. Il solito loop. Poi a un certo punto ho capito che non era una questione di tempo — era una questione di voglia. E la voglia è tornata.
 
 ---
