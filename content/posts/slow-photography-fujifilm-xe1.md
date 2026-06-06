@@ -6,11 +6,11 @@ thumbnail: https://images.squarespace-cdn.com/content/576b017229687f1fd26b9117/1
 tags: ["fotografia", "fujifilm", "slow photography", "analogico", "ttartisan"]
 ---
 
-*C'è una cosa strana che succede quando rimetti in mano una camera vecchia con un obiettivo completamente manuale. Il mondo rallenta. E tu, finalmente, rallenti con lui.*
+*C'è una cosa strana che succede quando riprendi in mano una camera vecchia con un obiettivo completamente manuale. Il mondo rallenta. E tu, finalmente, rallenti con lui.*
 
 ---
 
-Nello zaino ce l'ho sempre. Pesa poco, non dà nell'occhio, non ha niente di moderno da mostrare. È una **Fujifilm X-E1**, uscita nel 2012, sensore APS-C, corpo in metallo che sa ancora di cosa. Sopra ci vive un **TTArtisan 25mm** tutto manuale — niente autofocus, niente stabilizzazione, niente di niente. Solo vetro, metallo e una ghiera da girare con le dita.
+Nello zaino ce l'ho sempre. Pesa poco, non dà nell'occhio, non ha niente di moderno da mostrare. È una **Fujifilm X-E1**, uscita nel 2012, sensore APS-C, corpo in metallo che sa ancora di qualità. Sopra ci vive un **TTArtisan 25mm** tutto manuale — niente autofocus, niente stabilizzazione, niente di niente. Solo vetro, metallo e una ghiera da girare con le dita.
 
 ![Fujifilm X-E1](https://images.squarespace-cdn.com/content/576b017229687f1fd26b9117/1467055214569-EXWLX5CR96OHC4792RHT/Fujifilm-X-E1-1.jpg?content-type=image%2Fjpeg)
 
@@ -23,7 +23,7 @@ Per un po' l'avevo lasciata ferma. Non avevo tempo di rallentare, o almeno così
 
 La prima cosa che ho fatto è stata impostare una simulazione pellicola Fuji in bianco e nero. Niente colori. Niente saturazione da gestire. Solo luci, ombre e la storia che racconta un frame.
 
-Scattare in BN con un fisso manuale è un esercizio di **intenzione pura**. Prima di alzare la camera devo già sapere cosa voglio: dov'è la luce, dove metto il soggetto, quanto voglio che sia a fuoco. Non c'è modo di correggere dopo — o meglio, puoi sempre farlo in post, ma a quel punto hai già perso il punto.
+Scattare in BN con un fisso manuale è un esercizio di **intenzione pura**. Prima di alzare la camera devo già sapere cosa voglio: dov'è la luce, dove metto il soggetto, quanto voglio che sia a fuoco. Non c'è modo di correggere dopo — o meglio, puoi sempre farlo in post, ma a quel punto hai già perso il momento.
 
 E quella limitazione, stranamente, è la cosa più liberatoria che abbia trovato da tempo.
 
@@ -39,9 +39,9 @@ Con il TTArtisan questo loop torna. Cerco il momento, stimo la distanza, metto a
 
 ---
 
-## Perché uno zaino, sempre
+## Perché nello zaino, sempre
 
-La X-E1 nello zaino non è un peso — è una scusa. Una scusa per alzare gli occhi dallo schermo quando sei in giro per la città, per fermarti un secondo in più davanti a una luce che cambia, per notare cose che altrimenti passeresti senza vedere.
+La X-E1 nello zaino non è un peso — è una scusa. Una scusa per alzare gli occhi dallo schermo  dello smartphone quando sei in giro per la città, per fermarti un secondo in più davanti a una luce che cambia, per notare cose che altrimenti passeresti senza vedere.
 
 Non è una camera da reportage professionale. Non è nemmeno la migliore in assoluto per quello che faccio. Ma è **mia**, nel senso più concreto del termine — la conosco, so come si comporta, so dove mettere le dita senza guardare.
 
