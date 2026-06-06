@@ -1,6 +1,6 @@
 ---
 title: "Slow photography: perché ho riscoperto il piacere di sbagliare una foto"
-date: 2026-06-06T10:00:00+02:00
+date: 2026-06-06T08:00:00+02:00
 draft: false
 thumbnail: /img/tech-del-giorno-cover.jpg
 tags: ["fotografia", "fujifilm", "slow photography", "analogico", "ttartisan"]
