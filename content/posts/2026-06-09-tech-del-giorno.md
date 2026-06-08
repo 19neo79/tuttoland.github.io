@@ -1,6 +1,6 @@
 ---
 title: "WWDC26 stasera, Netlogon sotto attacco e HP-Ferrari: il PC da 5.000 euro"
-date: 2026-06-08T17:00:00+02:00
+date: 2026-06-08T10:00:00+02:00
 draft: false
 tags: ["tech", "AI", "Apple", "WWDC", "cybersecurity", "gaming", "newsletter"]
 description: "Stasera il keynote Apple più atteso degli ultimi anni. Intanto Windows Netlogon è sotto attacco attivo, la Gen Z riscopre il filo e HP lancia un notebook Ferrari da 4.999 euro."
