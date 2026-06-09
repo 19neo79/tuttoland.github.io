@@ -2,7 +2,7 @@
 title = "WWDC 2026: l'anno della redenzione di Siri (che noi europei, per ora, ci guardiamo da fuori)"
 date = "2026-06-09T08:00:00+02:00"
 draft = false
-description = "Tutto quello che Apple ha annunciato al WWDC 2026: Siri AI con Gemini sotto il cofano, Liquid Glass che si calma, macOS Golden Gate, AirPods con EQ personalizzato, e l'ultima keynote di Tim Cook. Più una nota amara per chi vive in Europa."
+description = "Tutto quello che Apple ha annunciato al WWDC 2026: Siri AI con Gemini sotto il cofano, Liquid Glass che si calma, macOS Golden Gate, AirPods con EQ personalizzato, e l'ultimo keynote di Tim Cook. Più una nota amara per chi vive in Europa."
 tags = ["Apple", "WWDC 2026", "iOS 27", "Siri", "Apple Intelligence", "macOS", "AirPods"]
 categories = ["Tech"]
 [cover]
@@ -19,7 +19,7 @@ categories = ["Tech"]
 
 L'edizione 2026 è andata in scena l'8 giugno all'Apple Park con un tagline — *All systems glow* — che per una volta era onesto: praticamente ogni annuncio brillava (è il caso di dirlo) di Apple Intelligence. Niente hardware sul palco, come da copione recente: questo è stato un WWDC dichiaratamente software-first, costruito interamente attorno all'AI.
 
-Sullo sfondo, due anni di promesse non mantenute. Siri "personale", annunciata in pompa magna nel 2024, era slittata, poi rislittata, fino a una causa class action chiusa con un patteggiamento milionario per funzioni pubblicizzate e mai arrivate. Insomma: Apple arrivava a questa keynote con un debito da saldare. E si vedeva.
+Sullo sfondo, due anni di promesse non mantenute. Siri "personale", annunciata in pompa magna nel 2024, era slittata, poi rislittata, fino a una causa class action chiusa con un patteggiamento milionario per funzioni pubblicizzate e mai arrivate. Insomma: Apple arrivava a questo keynote con un debito da saldare. E si vedeva.
 
 >I keynote "di raffinamento" di solito mi annoiano. Questo no, perché non era un anno di rifiniture: era un anno di resa dei conti. Apple non poteva permettersi un nuovo flop di Siri, e la tensione si sentiva anche nel tono — meno magia, più "guardate, questa volta funziona davvero".
 
@@ -103,7 +103,7 @@ Qui la notizia più "pesante" per chi sviluppa. **Xcode 27** integra agenti di c
 
 E qui arriva la parte che ci riguarda direttamente. Apple ha confermato che, a causa del **Digital Markets Act**, **Siri AI non arriverà su iPhone e iPad nell'Unione Europea** con il lancio di iOS 27 e iPadOS 27. (Anche la Cina resta inizialmente fuori, per motivi regolatori diversi.) Il resto del mondo la vedrà come beta più avanti nel 2026, inizialmente in inglese; per la versione "piena" — voci espressive, dettatura avanzata — servirà un iPhone 17 Pro / Pro Max o un iPhone Air.
 
->  Ecco perché il titolo. Vivo a due passi dal Brennero, in un territorio dove tre lingue convivono ogni giorno, e l'idea di un assistente conversazionale che *non* parla la mia lingua e *non* arriva nel mio mercato è, dal punto di vista pratico, un mezzo schiaffo. Si apre il solito dibattito: è Apple che usa il DMA come scusa per fare pressione, o è davvero l'Europa che si spara sui piedi a furia di regole? La verità, come sempre, sta nel mezzo — e a pagare il conto, nel frattempo, siamo noi utenti europei che il keynote l'abbiamo guardata sapendo che metà del menù non era per noi. Tornerò sull'argomento, perché merita un pezzo a sé.
+>  Ecco perché il titolo. Vivo a due passi dal Brennero, in un territorio dove tre lingue convivono ogni giorno, e l'idea di un assistente conversazionale che *non* parla la mia lingua e *non* arriva nel mio mercato è, dal punto di vista pratico, un mezzo schiaffo. Si apre il solito dibattito: è Apple che usa il DMA come scusa per fare pressione, o è davvero l'Europa che si spara sui piedi a furia di regole? La verità, come sempre, sta nel mezzo — e a pagare il conto, nel frattempo, siamo noi utenti europei che il keynote l'abbiamo guardato sapendo che metà del menù non era per noi. Tornerò sull'argomento, perché merita un pezzo a sé.
 
 <!-- IMMAGINE: mappa Europa / icona blocco. Suggerito: illustrazione propria o Unsplash (concetto, non prodotto) -->
 
@@ -115,7 +115,7 @@ Cornice emotiva di tutta la serata: questa è stata, con ogni probabilità, **l'
 
 > *"Alcuni dei momenti più belli del mio mandato da CEO sono stati eventi come questo. E con le straordinarie capacità che presentiamo oggi, e con tutto quello che deve ancora arrivare, credo davvero che il meglio sia ancora davanti a noi."*
 >
-> — **Tim Cook**, nel saluto conclusivo della sua ultima keynote da CEO (WWDC, 8 giugno 2026)
+> — **Tim Cook**, nel saluto conclusivo del suo ultimo keynote da CEO (WWDC, 8 giugno 2026)
 
 ## Quando lo avremo
 
