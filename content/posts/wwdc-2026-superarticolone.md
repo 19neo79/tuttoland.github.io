@@ -77,10 +77,7 @@ Apple porta la generazione di immagini **fotorealistiche** dentro Image Playgrou
 ![Schermata di Image Playground con due astronauti su un deserto marziano, generati in stile fotorealistico.](https://www.apple.com/newsroom/images/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/article/Apple-iPadOS-27-Image-Playground-260608_big.jpg.large.jpg)
 *Image Playground ora genera anche immagini in stile fotorealistico — Immagine: Apple*
 
-{{< video src="https://www.apple.com/newsroom/videos/2026/autoplay/06/apple-intelligence-spatial-reframing/large_2x.mp4" autoplay="true" loop="true" muted="true" >}}
-<!-- Se il tema non ha lo shortcut {{< video >}}, usa l'HTML qui sotto:
-<video src="https://www.apple.com/newsroom/videos/2026/autoplay/06/apple-intelligence-spatial-reframing/large_2x.mp4" autoplay loop muted playsinline></video>
--->
+<video src="https://www.apple.com/newsroom/videos/2026/autoplay/06/apple-intelligence-spatial-reframing/large_2x.mp4" autoplay loop muted playsinline controls style="width:100%;height:auto;border-radius:12px;"></video>
 *Lo Spatial Reframing in azione: si cambia la prospettiva di uno scatto dopo averlo fatto — Video: Apple*
 
 >  Da chi fa fotografia "slow" con un 25mm a fuoco manuale, lo Spatial Reframing mi mette un po' a disagio e un po' incuriosisce. È l'ennesimo passo verso la foto come "materiale malleabile" più che come istante catturato. Non è la mia idea di fotografia — ma da strumento, riconosco che per chi lavora con contenuti social è oro. Sul watermark SynthID, invece, applausi: la tracciabilità del generato è una battaglia giusta, e che sia di Google poco importa se funziona.
