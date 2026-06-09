@@ -1,11 +1,12 @@
 +++
 title = "WWDC 2026: l'anno della redenzione di Siri (che noi europei, per ora, ci guardiamo da fuori)"
 date = "2026-06-09T08:00:00+02:00"
-thumbnail: https://www.apple.com/newsroom/images/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/article/Apple-OS-27-updates-260608_big.jpg.large_2x.jpg
+thumbnail = "https://www.apple.com/newsroom/images/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/article/Apple-OS-27-updates-260608_big.jpg.large.jpg"
 draft = false
 description = "Tutto quello che Apple ha annunciato al WWDC 2026: Siri AI con Gemini sotto il cofano, Liquid Glass che si calma, macOS Golden Gate, AirPods con EQ personalizzato, e l'ultimo keynote di Tim Cook. Più una nota amara per chi vive in Europa."
 tags = ["Apple", "WWDC 2026", "iOS 27", "Siri", "Apple Intelligence", "macOS", "AirPods"]
 categories = ["Tech"]
+images = ["https://www.apple.com/newsroom/images/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/article/Apple-OS-27-updates-260608_big.jpg.large.jpg"]
 [cover]
   image = "https://www.apple.com/newsroom/images/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/article/Apple-OS-27-updates-260608_big.jpg.large.jpg"
   alt = "Apple Vision Pro, Mac, iPad, iPhone, Apple Watch e Apple TV con i nuovi sistemi operativi 27"
