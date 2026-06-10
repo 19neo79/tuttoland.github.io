@@ -6,7 +6,7 @@ thumbnail: /img/tech-del-giorno-cover.jpg
 draft: false
 ---
 
-*Mercoledì. Fuori è già estate, dentro al tech è stata una settimana densa. SpaceX mette il prezzo finale stasera e domani va in borsa. Signal attacca il governo britannico con parole pesanti. I medici vengono battuti dall'AI in pronto soccorso. Apple taglia i Mac Intel. E Nintendo, dopo mesi di silenzio, si presenta con 42 annunci e ci fa dimenticare tutto il resto. Buona lettura.*
+*Mercoledì. Fuori oggi sembra ottobre inoltrato ma dentro al tech è stata una settimana densa. SpaceX mette il prezzo finale stasera e domani va in borsa. Signal attacca il governo britannico con parole pesanti. I medici vengono battuti dall'AI in pronto soccorso. Apple taglia i Mac Intel. E Nintendo, dopo mesi di silenzio, si presenta con 42 annunci e ci fa dimenticare tutto il resto. Buona lettura.*
 
 ---
 
