@@ -2,7 +2,7 @@
 title: "Tech del Giorno – 12 giugno 2026"
 date: 2026-06-12T12:00:00+02:00
 thumbnail: "/img/tech-del-giorno-cover.jpg"
-draft: true
+draft: false
 tags: ["tech", "AI", "cybersecurity", "gadget", "newsletter"]
 ---
 
